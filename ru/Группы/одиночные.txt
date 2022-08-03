@@ -1,0 +1,32 @@
+    S:"Dirty Water.name"=Грязная вода
+    S:"Heavy Oil.name"=Тяжелая нефть
+    S:"Light Oil.name"=Легкая нефть
+    S:"Natural Gas.name"=Природный газ
+    S:"Raw Oil.name"=Сырая нефть
+    S:Riverwater.name=Речная вода
+    S:"Sea Water.name"=Морская вода
+    S:"Very Heavy Oil.name"=Сверхтяжелая нефть
+    S:enchantment.damage.endermen=Разделение
+    S:enchantment.damage.radioactivity=Радиоактивность
+    S:enchantment.damage.slime=Расстворение
+    S:enchantment.damage.werewolf=Werebane
+    
+    S:gt.advcrafting.automation.access=Разрешить автоматическое извлечение из сетки крафта
+    S:gt.advcrafting.drop.slot=Может автоматически извлекать предметы из этого слота
+    S:gt.advcrafting.insert.blueprint=Установите сюда чертеж
+    S:gt.advcrafting.neutral.slot=Этот слот не делает АБСОЛЮТНО НИЧЕГО с его содержимым
+    S:gt.advcrafting.put.to.storage=Перемещение содержимого сетки крафта в слоты хранения
+    
+    S:gt.autocrafting.insert.blueprint=Установите сюда чертёж автокрафта
+    
+    S:gt.display.fluid.name=Жидкостный дисплей
+    
+    S:gt.empty_slot.name=Пустой слот
+    S:gt.empty_slot.tooltip_main=Этот слот должен быть оставлен пустым
+    S:gt.grass.tooltip=Не распространяется, не съедается, не меняет цвет и не нуждается в свете
+    S:gt.integrated_circuit.name=Настройщик
+    
+    S:gt.weapon.sneak.rightclick.reload=Красться и ПКМ для перезагрузки
+
+    S:mc.recipe.furnace=Печь
+    S:mc.recipe.furnacefuel=Печное топливо (1 плавление = 5000 Юнитов)  
