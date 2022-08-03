@@ -246,6 +246,7 @@
     S:gt.multitileentity.1158.name=Dense Burning Box (Solid, Tungstensteel)
     S:gt.multitileentity.1159.name=Dense Burning Box (Solid, Tantalum Hafnium Carbide)
     S:gt.multitileentity.1160.name=Dense Burning Box (Solid, Netherite)
+    S:gt.multitileentity.1199.name=Brick Burning Box (Solid)
     S:gt.multitileentity.12.name=Titanium Chest
     S:gt.multitileentity.1200.name=Steam Boiler Tank (Lead)
     S:gt.multitileentity.1201.name=Steam Boiler Tank (Bismuth)
@@ -832,7 +833,7 @@
     S:gt.multitileentity.20363.name=Electric Loom (HV)
     S:gt.multitileentity.20364.name=Electric Loom (EV)
     S:gt.multitileentity.20365.name=Electric Loom (IV)
-    S:gt.multitileentity.2037.name=Mechanical 'Osmium' Safe
+    S:gt.multitileentity.2037.name=Mechanical Constantan Safe
     S:gt.multitileentity.20371.name=Electric Sifter (LV)
     S:gt.multitileentity.20372.name=Electric Sifter (MV)
     S:gt.multitileentity.20373.name=Electric Sifter (HV)
@@ -911,6 +912,7 @@
     S:gt.multitileentity.20543.name=Bumblelyzer (HV)
     S:gt.multitileentity.20544.name=Bumblelyzer (EV)
     S:gt.multitileentity.20545.name=Bumblelyzer (IV)
+    S:gt.multitileentity.2055.name=Mechanical Workers Alloy Safe
     S:gt.multitileentity.20551.name=Debarker (Bronze)
     S:gt.multitileentity.20552.name=Debarker (Steel)
     S:gt.multitileentity.20553.name=Debarker (Titanium)
@@ -1035,12 +1037,12 @@
     S:gt.multitileentity.25055.name=Restrictive Cobalt Brass Item Pipe
     S:gt.multitileentity.25056.name=Restrictive Large Cobalt Brass Item Pipe
     S:gt.multitileentity.25057.name=Restrictive Huge Cobalt Brass Item Pipe
-    S:gt.multitileentity.25077.name='Osmium' Item Pipe
-    S:gt.multitileentity.25078.name=Large 'Osmium' Item Pipe
-    S:gt.multitileentity.25079.name=Huge 'Osmium' Item Pipe
-    S:gt.multitileentity.25080.name=Restrictive 'Osmium' Item Pipe
-    S:gt.multitileentity.25081.name=Restrictive Large 'Osmium' Item Pipe
-    S:gt.multitileentity.25082.name=Restrictive Huge 'Osmium' Item Pipe
+    S:gt.multitileentity.25077.name=Germanium Item Pipe
+    S:gt.multitileentity.25078.name=Large Germanium Item Pipe
+    S:gt.multitileentity.25079.name=Huge Germanium Item Pipe
+    S:gt.multitileentity.25080.name=Restrictive Germanium Item Pipe
+    S:gt.multitileentity.25081.name=Restrictive Large Germanium Item Pipe
+    S:gt.multitileentity.25082.name=Restrictive Huge Germanium Item Pipe
     S:gt.multitileentity.25102.name=Electrum Item Pipe
     S:gt.multitileentity.25103.name=Large Electrum Item Pipe
     S:gt.multitileentity.25104.name=Huge Electrum Item Pipe
@@ -1391,6 +1393,20 @@
     S:gt.multitileentity.26724.name=Huge Efrine Fluid Pipe
     S:gt.multitileentity.26725.name=Quadruple Efrine Fluid Pipe
     S:gt.multitileentity.26726.name=Nonuple Efrine Fluid Pipe
+    S:gt.multitileentity.26740.name=Tiny Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26741.name=Small Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26742.name=Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26743.name=Large Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26744.name=Huge Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26745.name=Quadruple Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26746.name=Nonuple Vanadiumsteel Fluid Pipe
+    S:gt.multitileentity.26760.name=Tiny Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26761.name=Small Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26762.name=Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26763.name=Large Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26764.name=Huge Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26765.name=Quadruple Workers Alloy Fluid Pipe
+    S:gt.multitileentity.26766.name=Nonuple Workers Alloy Fluid Pipe
     S:gt.multitileentity.27.name=Thaumium Chest
     S:gt.multitileentity.27000.name=Red Alloy Wire
     S:gt.multitileentity.27006.name=Red Alloy Cable
@@ -2067,7 +2083,7 @@
     S:gt.multitileentity.3034.name=Key Locked Bedrock-HSLA-Alloy Safe
     S:gt.multitileentity.3035.name=Key Locked Draconium Safe
     S:gt.multitileentity.3036.name=Key Locked Awakened Draconium Safe
-    S:gt.multitileentity.3037.name=Key Locked 'Osmium' Safe
+    S:gt.multitileentity.3037.name=Key Locked Constantan Safe
     S:gt.multitileentity.3038.name=Key Locked Ardite Safe
     S:gt.multitileentity.3039.name=Key Locked Manyullyn Safe
     S:gt.multitileentity.3040.name=Key Locked Manasteel Safe
@@ -2085,6 +2101,7 @@
     S:gt.multitileentity.3052.name=Key Locked Tungsten Alloy Safe
     S:gt.multitileentity.3053.name=Key Locked Efrine Safe
     S:gt.multitileentity.3054.name=Key Locked Lumium Safe
+    S:gt.multitileentity.3055.name=Key Locked Workers Alloy Safe
     S:gt.multitileentity.31.name=Duranium Alloy Chest
     S:gt.multitileentity.31000.name=Thermometer Sensor
     S:gt.multitileentity.31001.name=Gibbl-O-Meter Sensor
@@ -2141,8 +2158,8 @@
     S:gt.multitileentity.32032.name=Thaumium Anvil
     S:gt.multitileentity.32033.name=Manasteel Anvil
     S:gt.multitileentity.32034.name=Black Steel Anvil
-    S:gt.multitileentity.32035.name=Red Steel Anvil
-    S:gt.multitileentity.32036.name=Blue Steel Anvil
+    S:gt.multitileentity.32035.name=Blue Steel Anvil
+    S:gt.multitileentity.32036.name=Red Steel Anvil
     S:gt.multitileentity.32037.name=Vanadiumsteel Anvil
     S:gt.multitileentity.32038.name=Octine Anvil
     S:gt.multitileentity.32039.name=Fiery Steel Anvil
@@ -2202,6 +2219,16 @@
     S:gt.multitileentity.32093.name=Efrine Drum
     S:gt.multitileentity.32094.name=Mortar
     S:gt.multitileentity.32095.name=Blackstone Anvil
+    S:gt.multitileentity.32096.name=Miniature Mining Dimension Portal
+    S:gt.multitileentity.32097.name=Miniature Caveworld Dimension Portal
+    S:gt.multitileentity.32098.name=Miniature Cavern Dimension Portal
+    S:gt.multitileentity.32099.name=Miniature Aqua Cavern Dimension Portal
+    S:gt.multitileentity.32100.name=Miniature Caveland Dimension Portal
+    S:gt.multitileentity.32101.name=Miniature Cavenia Dimension Portal
+    S:gt.multitileentity.32102.name=Bronze Drum
+    S:gt.multitileentity.32103.name=Scrap
+    S:gt.multitileentity.32104.name=Boomstick
+    S:gt.multitileentity.32105.name=Sandwich
     S:gt.multitileentity.32252.name=Wooden Panel
     S:gt.multitileentity.32253.name=Wooden Panel
     S:gt.multitileentity.32254.name=Wooden Panel
@@ -2588,6 +2615,7 @@
     S:gt.multitileentity.32635.name=Capsule-Cell-Container (Gold)
     S:gt.multitileentity.32636.name=Capsule-Cell-Container (Tungsten Alloy)
     S:gt.multitileentity.32637.name=Capsule-Cell-Container (Efrine)
+    S:gt.multitileentity.32638.name=Capsule-Cell-Container (Workers Alloy)
     S:gt.multitileentity.32700.name=Coin
     S:gt.multitileentity.32701.name=Coinage Mold
     S:gt.multitileentity.32702.name=Sifting Table
@@ -2603,8 +2631,8 @@
     S:gt.multitileentity.32712.name=Strong Dynamite
     S:gt.multitileentity.32713.name=Dynamite
     S:gt.multitileentity.32714.name=Wooden Barrel
-    S:gt.multitileentity.32715.name=Plastic Can
-    S:gt.multitileentity.32716.name=Drum
+    S:gt.multitileentity.32715.name=Plastic Canister
+    S:gt.multitileentity.32716.name=Stainless Steel Drum
     S:gt.multitileentity.32717.name=Tungstensteel Drum
     S:gt.multitileentity.32718.name=Tungsten Drum
     S:gt.multitileentity.32719.name=Adamantium Drum
@@ -2633,7 +2661,7 @@
     S:gt.multitileentity.32742.name=Titanium Drum
     S:gt.multitileentity.32743.name=Stainless Measuring Pot
     S:gt.multitileentity.32744.name=Tungsten Measuring Pot
-    S:gt.multitileentity.32745.name=Loot Chest
+    S:gt.multitileentity.32745.name=Mossy Stone Chest
     S:gt.multitileentity.32746.name=Steel Nozzle
     S:gt.multitileentity.32747.name=Plastic Nozzle
     S:gt.multitileentity.32748.name=Stainless Nozzle
@@ -2659,7 +2687,7 @@
     S:gt.multitileentity.34.name=Bedrock-HSLA-Alloy Chest
     S:gt.multitileentity.35.name=Draconium Chest
     S:gt.multitileentity.36.name=Awakened Draconium Chest
-    S:gt.multitileentity.37.name='Osmium' Chest
+    S:gt.multitileentity.37.name=Constantan Chest
     S:gt.multitileentity.38.name=Ardite Chest
     S:gt.multitileentity.39.name=Manyullyn Chest
     S:gt.multitileentity.4.name=Platinum Chest
@@ -2701,7 +2729,7 @@
     S:gt.multitileentity.4034.name=Compartment Drawer (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.4035.name=Compartment Drawer (Draconium)
     S:gt.multitileentity.4036.name=Compartment Drawer (Awakened Draconium)
-    S:gt.multitileentity.4037.name=Compartment Drawer ('Osmium')
+    S:gt.multitileentity.4037.name=Compartment Drawer (Constantan)
     S:gt.multitileentity.4038.name=Compartment Drawer (Ardite)
     S:gt.multitileentity.4039.name=Compartment Drawer (Manyullyn)
     S:gt.multitileentity.4040.name=Compartment Drawer (Manasteel)
@@ -2719,6 +2747,7 @@
     S:gt.multitileentity.4052.name=Compartment Drawer (Tungsten Alloy)
     S:gt.multitileentity.4053.name=Compartment Drawer (Efrine)
     S:gt.multitileentity.4054.name=Compartment Drawer (Lumium)
+    S:gt.multitileentity.4055.name=Compartment Drawer (Workers Alloy)
     S:gt.multitileentity.41.name=Elementium Chest
     S:gt.multitileentity.42.name=Terrasteel Chest
     S:gt.multitileentity.43.name=Meteorite Chest
@@ -2771,7 +2800,7 @@
     S:gt.multitileentity.5034.name=Advanced Crafting Table (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.5035.name=Advanced Crafting Table (Draconium)
     S:gt.multitileentity.5036.name=Advanced Crafting Table (Awakened Draconium)
-    S:gt.multitileentity.5037.name=Advanced Crafting Table ('Osmium')
+    S:gt.multitileentity.5037.name=Advanced Crafting Table (Constantan)
     S:gt.multitileentity.5038.name=Advanced Crafting Table (Ardite)
     S:gt.multitileentity.5039.name=Advanced Crafting Table (Manyullyn)
     S:gt.multitileentity.504.name=Platinum reinforced wooden Chest
@@ -2791,6 +2820,7 @@
     S:gt.multitileentity.5052.name=Advanced Crafting Table (Tungsten Alloy)
     S:gt.multitileentity.5053.name=Advanced Crafting Table (Efrine)
     S:gt.multitileentity.5054.name=Advanced Crafting Table (Lumium)
+    S:gt.multitileentity.5055.name=Advanced Crafting Table (Workers Alloy)
     S:gt.multitileentity.506.name=Invar reinforced wooden Chest
     S:gt.multitileentity.507.name=Electrum reinforced wooden Chest
     S:gt.multitileentity.508.name=Brass reinforced wooden Chest
@@ -2825,7 +2855,7 @@
     S:gt.multitileentity.534.name=Bedrock-HSLA-Alloy reinforced wooden Chest
     S:gt.multitileentity.535.name=Draconium reinforced wooden Chest
     S:gt.multitileentity.536.name=Awakened Draconium reinforced wooden Chest
-    S:gt.multitileentity.537.name='Osmium' reinforced wooden Chest
+    S:gt.multitileentity.537.name=Constantan reinforced wooden Chest
     S:gt.multitileentity.538.name=Ardite reinforced wooden Chest
     S:gt.multitileentity.539.name=Manyullyn reinforced wooden Chest
     S:gt.multitileentity.54.name=Lumium Chest
@@ -2839,6 +2869,7 @@
     S:gt.multitileentity.547.name=Antimony reinforced wooden Chest
     S:gt.multitileentity.548.name=Ultimet reinforced wooden Chest
     S:gt.multitileentity.549.name=Molybdenum reinforced wooden Chest
+    S:gt.multitileentity.55.name=Workers Alloy Chest
     S:gt.multitileentity.550.name=Infinity reinforced wooden Chest
     S:gt.multitileentity.5500.name=Charging Crafting Table (Lead)
     S:gt.multitileentity.5501.name=Charging Crafting Table (Aluminium)
@@ -2880,7 +2911,7 @@
     S:gt.multitileentity.5534.name=Charging Crafting Table (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.5535.name=Charging Crafting Table (Draconium)
     S:gt.multitileentity.5536.name=Charging Crafting Table (Awakened Draconium)
-    S:gt.multitileentity.5537.name=Charging Crafting Table ('Osmium')
+    S:gt.multitileentity.5537.name=Charging Crafting Table (Constantan)
     S:gt.multitileentity.5538.name=Charging Crafting Table (Ardite)
     S:gt.multitileentity.5539.name=Charging Crafting Table (Manyullyn)
     S:gt.multitileentity.554.name=Lumium reinforced wooden Chest
@@ -2894,11 +2925,13 @@
     S:gt.multitileentity.5547.name=Charging Crafting Table (Antimony)
     S:gt.multitileentity.5548.name=Charging Crafting Table (Ultimet)
     S:gt.multitileentity.5549.name=Charging Crafting Table (Molybdenum)
+    S:gt.multitileentity.555.name=Workers Alloy reinforced wooden Chest
     S:gt.multitileentity.5550.name=Charging Crafting Table (Infinity)
     S:gt.multitileentity.5551.name=Charging Crafting Table (Netherite)
     S:gt.multitileentity.5552.name=Charging Crafting Table (Tungsten Alloy)
     S:gt.multitileentity.5553.name=Charging Crafting Table (Efrine)
     S:gt.multitileentity.5554.name=Charging Crafting Table (Lumium)
+    S:gt.multitileentity.5555.name=Charging Crafting Table (Workers Alloy)
     S:gt.multitileentity.6.name=Invar Chest
     S:gt.multitileentity.6000.name=Mass Storage (Lead)
     S:gt.multitileentity.6001.name=Mass Storage (Aluminium)
@@ -2937,7 +2970,7 @@
     S:gt.multitileentity.6034.name=Mass Storage (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.6035.name=Mass Storage (Draconium)
     S:gt.multitileentity.6036.name=Mass Storage (Awakened Draconium)
-    S:gt.multitileentity.6037.name=Mass Storage ('Osmium')
+    S:gt.multitileentity.6037.name=Mass Storage (Constantan)
     S:gt.multitileentity.6038.name=Mass Storage (Ardite)
     S:gt.multitileentity.6039.name=Mass Storage (Manyullyn)
     S:gt.multitileentity.6040.name=Mass Storage (Manasteel)
@@ -2955,6 +2988,7 @@
     S:gt.multitileentity.6052.name=Mass Storage (Tungsten Alloy)
     S:gt.multitileentity.6053.name=Mass Storage (Efrine)
     S:gt.multitileentity.6054.name=Mass Storage (Lumium)
+    S:gt.multitileentity.6055.name=Mass Storage (Workers Alloy)
     S:gt.multitileentity.6200.name=Logistics Mass Storage (Lead)
     S:gt.multitileentity.6201.name=Logistics Mass Storage (Aluminium)
     S:gt.multitileentity.6202.name=Logistics Mass Storage (Gold)
@@ -2992,7 +3026,7 @@
     S:gt.multitileentity.6234.name=Logistics Mass Storage (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.6235.name=Logistics Mass Storage (Draconium)
     S:gt.multitileentity.6236.name=Logistics Mass Storage (Awakened Draconium)
-    S:gt.multitileentity.6237.name=Logistics Mass Storage ('Osmium')
+    S:gt.multitileentity.6237.name=Logistics Mass Storage (Constantan)
     S:gt.multitileentity.6238.name=Logistics Mass Storage (Ardite)
     S:gt.multitileentity.6239.name=Logistics Mass Storage (Manyullyn)
     S:gt.multitileentity.6240.name=Logistics Mass Storage (Manasteel)
@@ -3010,6 +3044,7 @@
     S:gt.multitileentity.6252.name=Logistics Mass Storage (Tungsten Alloy)
     S:gt.multitileentity.6253.name=Logistics Mass Storage (Efrine)
     S:gt.multitileentity.6254.name=Logistics Mass Storage (Lumium)
+    S:gt.multitileentity.6255.name=Logistics Mass Storage (Workers Alloy)
     S:gt.multitileentity.6983.name=Skyroot Item Barrel
     S:gt.multitileentity.6984.name=Silverwood Item Barrel
     S:gt.multitileentity.6985.name=Greatwood Item Barrel
@@ -3165,7 +3200,7 @@
     S:gt.multitileentity.7134.name=Bookshelf (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7135.name=Bookshelf (Draconium)
     S:gt.multitileentity.7136.name=Bookshelf (Awakened Draconium)
-    S:gt.multitileentity.7137.name=Bookshelf ('Osmium')
+    S:gt.multitileentity.7137.name=Bookshelf (Constantan)
     S:gt.multitileentity.7138.name=Bookshelf (Ardite)
     S:gt.multitileentity.7139.name=Bookshelf (Manyullyn)
     S:gt.multitileentity.7140.name=Bookshelf (Manasteel)
@@ -3183,6 +3218,7 @@
     S:gt.multitileentity.7152.name=Bookshelf (Tungsten Alloy)
     S:gt.multitileentity.7153.name=Bookshelf (Efrine)
     S:gt.multitileentity.7154.name=Bookshelf (Lumium)
+    S:gt.multitileentity.7155.name=Bookshelf (Workers Alloy)
     S:gt.multitileentity.7300.name=Locker (Lead)
     S:gt.multitileentity.7301.name=Locker (Aluminium)
     S:gt.multitileentity.7302.name=Locker (Gold)
@@ -3220,7 +3256,7 @@
     S:gt.multitileentity.7334.name=Locker (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7335.name=Locker (Draconium)
     S:gt.multitileentity.7336.name=Locker (Awakened Draconium)
-    S:gt.multitileentity.7337.name=Locker ('Osmium')
+    S:gt.multitileentity.7337.name=Locker (Constantan)
     S:gt.multitileentity.7338.name=Locker (Ardite)
     S:gt.multitileentity.7339.name=Locker (Manyullyn)
     S:gt.multitileentity.7340.name=Locker (Manasteel)
@@ -3238,6 +3274,7 @@
     S:gt.multitileentity.7352.name=Locker (Tungsten Alloy)
     S:gt.multitileentity.7353.name=Locker (Efrine)
     S:gt.multitileentity.7354.name=Locker (Lumium)
+    S:gt.multitileentity.7355.name=Locker (Workers Alloy)
     S:gt.multitileentity.7500.name=Charging Locker (Lead)
     S:gt.multitileentity.7501.name=Charging Locker (Aluminium)
     S:gt.multitileentity.7502.name=Charging Locker (Gold)
@@ -3275,7 +3312,7 @@
     S:gt.multitileentity.7534.name=Charging Locker (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7535.name=Charging Locker (Draconium)
     S:gt.multitileentity.7536.name=Charging Locker (Awakened Draconium)
-    S:gt.multitileentity.7537.name=Charging Locker ('Osmium')
+    S:gt.multitileentity.7537.name=Charging Locker (Constantan)
     S:gt.multitileentity.7538.name=Charging Locker (Ardite)
     S:gt.multitileentity.7539.name=Charging Locker (Manyullyn)
     S:gt.multitileentity.7540.name=Charging Locker (Manasteel)
@@ -3293,6 +3330,7 @@
     S:gt.multitileentity.7552.name=Charging Locker (Tungsten Alloy)
     S:gt.multitileentity.7553.name=Charging Locker (Efrine)
     S:gt.multitileentity.7554.name=Charging Locker (Lumium)
+    S:gt.multitileentity.7555.name=Charging Locker (Workers Alloy)
     S:gt.multitileentity.7800.name=Wooden Bookshelf
     S:gt.multitileentity.7801.name=Wooden Bookshelf
     S:gt.multitileentity.7802.name=Wooden Bookshelf
@@ -3531,7 +3569,7 @@
     S:gt.multitileentity.8034.name=Bedrock-HSLA-Alloy Hopper
     S:gt.multitileentity.8035.name=Draconium Hopper
     S:gt.multitileentity.8036.name=Awakened Draconium Hopper
-    S:gt.multitileentity.8037.name='Osmium' Hopper
+    S:gt.multitileentity.8037.name=Constantan Hopper
     S:gt.multitileentity.8038.name=Ardite Hopper
     S:gt.multitileentity.8039.name=Manyullyn Hopper
     S:gt.multitileentity.8040.name=Manasteel Hopper
@@ -3549,6 +3587,7 @@
     S:gt.multitileentity.8052.name=Tungsten Alloy Hopper
     S:gt.multitileentity.8053.name=Efrine Hopper
     S:gt.multitileentity.8054.name=Lumium Hopper
+    S:gt.multitileentity.8055.name=Workers Alloy Hopper
     S:gt.multitileentity.8200.name=Lead Queue Hopper
     S:gt.multitileentity.8201.name=Aluminium Queue Hopper
     S:gt.multitileentity.8202.name=Gold Queue Hopper
@@ -3586,7 +3625,7 @@
     S:gt.multitileentity.8234.name=Bedrock-HSLA-Alloy Queue Hopper
     S:gt.multitileentity.8235.name=Draconium Queue Hopper
     S:gt.multitileentity.8236.name=Awakened Draconium Queue Hopper
-    S:gt.multitileentity.8237.name='Osmium' Queue Hopper
+    S:gt.multitileentity.8237.name=Constantan Queue Hopper
     S:gt.multitileentity.8238.name=Ardite Queue Hopper
     S:gt.multitileentity.8239.name=Manyullyn Queue Hopper
     S:gt.multitileentity.8240.name=Manasteel Queue Hopper
@@ -3604,6 +3643,7 @@
     S:gt.multitileentity.8252.name=Tungsten Alloy Queue Hopper
     S:gt.multitileentity.8253.name=Efrine Queue Hopper
     S:gt.multitileentity.8254.name=Lumium Queue Hopper
+    S:gt.multitileentity.8255.name=Workers Alloy Queue Hopper
     S:gt.multitileentity.8400.name=Lead Scaffold
     S:gt.multitileentity.8401.name=Aluminium Scaffold
     S:gt.multitileentity.8402.name=Gold Scaffold
@@ -3641,7 +3681,7 @@
     S:gt.multitileentity.8434.name=Bedrock-HSLA-Alloy Scaffold
     S:gt.multitileentity.8435.name=Draconium Scaffold
     S:gt.multitileentity.8436.name=Awakened Draconium Scaffold
-    S:gt.multitileentity.8437.name='Osmium' Scaffold
+    S:gt.multitileentity.8437.name=Constantan Scaffold
     S:gt.multitileentity.8438.name=Ardite Scaffold
     S:gt.multitileentity.8439.name=Manyullyn Scaffold
     S:gt.multitileentity.8440.name=Manasteel Scaffold
@@ -3659,6 +3699,7 @@
     S:gt.multitileentity.8452.name=Tungsten Alloy Scaffold
     S:gt.multitileentity.8453.name=Efrine Scaffold
     S:gt.multitileentity.8454.name=Lumium Scaffold
+    S:gt.multitileentity.8455.name=Workers Alloy Scaffold
     S:gt.multitileentity.9.name=Bronze Chest
     S:gt.multitileentity.9000.name=Fluidized Bed Burning Box (Lead)
     S:gt.multitileentity.9001.name=Fluidized Bed Burning Box (Bismuth)
@@ -3737,7 +3778,11 @@
     S:gt.multitileentity.9360.name=Depleted Enriched Naquadah Fuel Rod
     S:gt.multitileentity.9361.name=Depleted Naquadria Fuel Rod
     S:gt.multitileentity.9410.name=Thorium-232 Breeder Rod
+    S:gt.multitileentity.9411.name=Uranium-233 Enriched Rod
     S:gt.multitileentity.9420.name=Uranium-238 Breeder Rod
+    S:gt.multitileentity.9421.name=Plutonium-239 Enriched Rod
+    S:gt.multitileentity.9430.name=Lithium Breeder Rod
+    S:gt.multitileentity.9431.name=Tritium Enriched Rod
     S:gt.multitileentity.data.switch.tooltip.1=Use adjacent to Machines that require USB Sticks to select Recipes
     S:gt.multitileentity.data.switch.tooltip.2=Add USB Cable to Slot where USB Stick in the Recipe would go
     S:gt.multitileentity.data.switch.tooltip.3=Clicking with USB Stick will write its Data to the selected Slot.

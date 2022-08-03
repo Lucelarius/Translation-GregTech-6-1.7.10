@@ -63,7 +63,7 @@
     S:gt.recipe.mixer=Mixer
     S:gt.recipe.mortar=Mortar
     S:gt.recipe.nanofab=Nanoscale Fabricator
-    S:gt.recipe.other=Other Relations
+    S:gt.recipe.other=Did you know...?
     S:gt.recipe.plantalyzer=Plantalyzer
     S:gt.recipe.polarizer=Polarizer
     S:gt.recipe.press=Press
@@ -83,6 +83,7 @@
     S:gt.recipe.smelter=Smelter
     S:gt.recipe.squeezer=Squeezer
     S:gt.recipe.steamcracking=Steam Cracking
+    S:gt.recipe.toolhead=Craft Head on Handle
     S:gt.recipe.trees=Family Tree
     S:gt.recipe.unboxinator=Unboxinator
     S:gt.recipe.vacuumfreezer=Vacuum Freezer

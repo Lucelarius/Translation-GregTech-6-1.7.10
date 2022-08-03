@@ -1,11 +1,11 @@
     S:gt.armor.hazmat.biochemgas.boots.name=Biochemical Gas Hazard Suit Boots
-    S:gt.armor.hazmat.biochemgas.boots.tooltip_main=Full Set protects against Chemicals and Gasses
+    S:gt.armor.hazmat.biochemgas.boots.tooltip_main=Full Set protects against Chemicals and Gases
     S:gt.armor.hazmat.biochemgas.chest.name=Biochemical Gas Hazard Suit Shirt
-    S:gt.armor.hazmat.biochemgas.chest.tooltip_main=Full Set protects against Chemicals and Gasses
+    S:gt.armor.hazmat.biochemgas.chest.tooltip_main=Full Set protects against Chemicals and Gases
     S:gt.armor.hazmat.biochemgas.head.name=Biochemical Gas Hazard Suit Mask
-    S:gt.armor.hazmat.biochemgas.head.tooltip_main=Full Set protects against Chemicals and Gasses
+    S:gt.armor.hazmat.biochemgas.head.tooltip_main=Full Set protects against Chemicals and Gases
     S:gt.armor.hazmat.biochemgas.legs.name=Biochemical Gas Hazard Suit Pants
-    S:gt.armor.hazmat.biochemgas.legs.tooltip_main=Full Set protects against Chemicals and Gasses
+    S:gt.armor.hazmat.biochemgas.legs.tooltip_main=Full Set protects against Chemicals and Gases
     S:gt.armor.hazmat.frost.boots.name=Frost Protection Suit Boots
     S:gt.armor.hazmat.frost.boots.tooltip_main=Full Set protects against Cold
     S:gt.armor.hazmat.frost.chest.name=Frost Protection Suit Shirt

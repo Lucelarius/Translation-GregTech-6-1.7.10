@@ -7,7 +7,7 @@
     S:gt.metatool.01.100.name=Mining Drill (LV)
     S:gt.metatool.01.100.tooltip=
     S:gt.metatool.01.1000.name=Pocket Multitool
-    S:gt.metatool.01.1000.tooltip=Sneak Rightclick to switch Tool
+    S:gt.metatool.01.1000.tooltip=7 useful Tools in one!
     S:gt.metatool.01.1001.name=Pocket Multitool (Empty)
     S:gt.metatool.01.1001.tooltip=You need to recharge it
     S:gt.metatool.01.1002.name=Pocket Multitool (Knife)
@@ -141,7 +141,7 @@
     S:gt.metatool.01.23.name=Screwdriver (Empty)
     S:gt.metatool.01.23.tooltip=You need to recharge it
     S:gt.metatool.01.24.name=Club
-    S:gt.metatool.01.24.tooltip=A blunt primitive weapon with a lot of Power
+    S:gt.metatool.01.24.tooltip=A blunt primitive Weapon and Rock Crusher
     S:gt.metatool.01.25.name=Club (Empty)
     S:gt.metatool.01.25.tooltip=You need to recharge it
     S:gt.metatool.01.26.name=Wire Cutter
@@ -239,7 +239,7 @@
     S:gt.metatool.01.7.name=Axe (Empty)
     S:gt.metatool.01.7.tooltip=You need to recharge it
     S:gt.metatool.01.70.name=Gem tipped Pickaxe
-    S:gt.metatool.01.70.tooltip=Quarter of the Durability of a full Gem Pick
+    S:gt.metatool.01.70.tooltip=Half of the Durability of a full Gem Pick
     S:gt.metatool.01.71.name=Gem tipped Pickaxe (Empty)
     S:gt.metatool.01.71.tooltip=You need to recharge it
     S:gt.metatool.01.72.name=Hand Drill

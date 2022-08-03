@@ -26,6 +26,7 @@
     S:gt.lang.emits.redstoneflux.lossless=Can emit Redstone Flux (RF) losslessly
     S:gt.lang.emits.redstoneflux.lossy=Can emit Redstone Flux (RF) with a Loss of
     S:gt.lang.emits.used.steam=Emits used Steam
+    S:gt.lang.enchantment.bonus=Can influence an Enchanting Table like a Bookshelf
     S:gt.lang.energy.capacity=Capacity
     S:gt.lang.energy.contained=Stored Energy
     S:gt.lang.energy.convert.from=Converts
@@ -62,7 +63,7 @@
     S:gt.lang.hazard.contact=Causes Damage when touched while active!
     S:gt.lang.hazard.explosion.steam=Explodes when Steam Pressure is too high!
     S:gt.lang.hazard.fire=Can put Blocks around it on Fire!
-    S:gt.lang.hazard.leak.gas=Leaks when used with Gasses!
+    S:gt.lang.hazard.leak.gas=Leaks when used with Gases!
     S:gt.lang.hazard.meltdown=Melts down when stored Heat is too much!
     S:gt.lang.item.input=Items IN
     S:gt.lang.item.output=Items OUT
@@ -87,14 +88,14 @@
     S:gt.lang.pipe.stats.stepsize=Stepsize: 
     S:gt.lang.pistonpush=Pistons can push this Block
     S:gt.lang.proof.acid=Can handle Acids
-    S:gt.lang.proof.gas=Can handle Gasses
+    S:gt.lang.proof.gas=Can handle Gases
     S:gt.lang.proof.heat=Can handle Temperatures up to: 
     S:gt.lang.proof.liquid=Can handle Liquids
     S:gt.lang.proof.plasma=Can handle Plasma
     S:gt.lang.prospecting.air=There is an Air Pocket behind this Rock
     S:gt.lang.prospecting.change=Material is changing behind this Rock
     S:gt.lang.prospecting.lava=There is Lava behind this Rock
-    S:gt.lang.prospecting.liquid=There is a Liquid behind this Rock
+    S:gt.lang.prospecting.liquid=There is a Fluid behind this Rock
     S:gt.lang.prospecting.nothing=No traces of Ore found
     S:gt.lang.prospecting.traces=Found traces of 
     S:gt.lang.railspeed=Rail Speed: 
@@ -102,13 +103,13 @@
     S:gt.lang.recipes=Recipes
     S:gt.lang.recipes.anvil.usage=Place Input on Top and use the Hammer on either the Top or the Sides
     S:gt.lang.recipes.autohammer=Performs Hammer Rightclicks and crushes Blocks
-    S:gt.lang.recipes.bathingsink.usage=Place Input on Top and rightclick it
+    S:gt.lang.recipes.bathingsink.usage=Place Input in Center, Fill with Fluid on the Rim, then rightclick it
     S:gt.lang.recipes.dustfunnel=Turns all differently sized Dusts into the specified Size
     S:gt.lang.recipes.grindstone.init=Add Sandstone Block in order to be able to use this
     S:gt.lang.recipes.grindstone.usage=Click multiple times with the Object you want to sharpen
     S:gt.lang.recipes.igniter=Performs Ignition Rightclicks and incinerates Blocks
     S:gt.lang.recipes.juicer.usage=Rightclick with the Item you want to get Juice from
-    S:gt.lang.recipes.mixingbowl.usage=Place Input on Top and rightclick it
+    S:gt.lang.recipes.mixingbowl.usage=Place Input in Center, Fill with Fluid on the Rim, then rightclick it
     S:gt.lang.recipes.mold=This Mold produces
     S:gt.lang.recipes.mold.coinage=Place tiny Metal Plate ontop, hammer it and retrieve Coin
     S:gt.lang.recipes.mold.select=Use a Chisel in order to select the Shape of the Mold
@@ -126,6 +127,7 @@
     S:gt.lang.requirement.water.any=Requires input of any Water!
     S:gt.lang.requirement.water.distilled=Requires input of distilled Water!
     S:gt.lang.requirement.water.pure=Requires any Water. Use distilled Water for best efficiency!
+    S:gt.lang.sandwichable=Is a valid Sandwich Ingredient
     S:gt.lang.sealable.any=This Block can seal Air at any Side
     S:gt.lang.sealable.bug=Shouldn't seal Air, but sometimes does because opaque
     S:gt.lang.sealable.some=This Block can seal Air at some Sides
@@ -195,7 +197,7 @@
     S:gt.lang.tool.tooltip.chisel=Chisels Storage Blocks and chiselable Blocks
     S:gt.lang.tool.tooltip.crowbar=Dismounts Covers and Rotates Rails
     S:gt.lang.tool.tooltip.cutter=Cuts and Connects Wires
-    S:gt.lang.tool.tooltip.drill=Places Dynamite Sticks and reinforces Bricks
+    S:gt.lang.tool.tooltip.drill=Drills Holes and reinforces Bricks
     S:gt.lang.tool.tooltip.ducttape=
     S:gt.lang.tool.tooltip.extinguisher=Extinguishing things
     S:gt.lang.tool.tooltip.file=
@@ -234,6 +236,7 @@
     S:gt.lang.unburnable=Unburnable!
     S:gt.lang.use.chisel.to.decalcify=Use Chisel to decalcify
     S:gt.lang.use.chisel.to.switch.design=Use Chisel to change Design
+    S:gt.lang.use.controlcover.to.toggle=Use Cover Controller Cover to toggle ON/OFF
     S:gt.lang.use.crowbar.to.open=Use Crowbar to open this by harvesting
     S:gt.lang.use.crowbar.to.uncover=Use Crowbar to remove Covers
     S:gt.lang.use.cutter.to.toggle=Use Cutter to toggle Modes
@@ -260,6 +263,8 @@
     S:gt.lang.use.x.to.toggle.connection.pre=Use 
     S:gt.lang.use.x.to.toggle.facing.post= to set Facing
     S:gt.lang.use.x.to.toggle.facing.pre=Use 
+    S:gt.lang.use.x.to.toggle.facing2.post= to set secondary Facing
+    S:gt.lang.use.x.to.toggle.facing2.pre=Use 
     S:gt.lang.walkspeed=This Block alters the Walk Speed
     S:gt.lang.wire.stats.amperage=Amperage: 
     S:gt.lang.wire.stats.loss=Loss: 

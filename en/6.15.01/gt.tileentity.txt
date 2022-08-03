@@ -12,6 +12,10 @@
     S:gt.tileentity.portal.alfheim.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.alfheim.tooltip.3=Requires an Interdimensional Gateway Core for activation
     S:gt.tileentity.portal.alfheim.tooltip.4=This is not a Trade Portal! It's working just like all other Mini Portals!
+    S:gt.tileentity.portal.aquacavern.tooltip.1=Only works between Aqua Cavern and the Overworld!
+    S:gt.tileentity.portal.aquacavern.tooltip.2=Margin of Error to still work: 128 Meters.
+    S:gt.tileentity.portal.aroma.tooltip.1=Only works between Aroma's Mining Dimension and the Overworld!
+    S:gt.tileentity.portal.aroma.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.atum.tooltip.1=Only works between the Atum Desert and the Overworld!
     S:gt.tileentity.portal.atum.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.atum.tooltip.3=Requires the Scarab for activation
@@ -21,6 +25,14 @@
     S:gt.tileentity.portal.candy.tooltip.1=Only works between the Candy Dimension and the Overworld!
     S:gt.tileentity.portal.candy.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.candy.tooltip.3=Requires PEZ for activation
+    S:gt.tileentity.portal.caveland.tooltip.1=Only works between Caveland and the Overworld!
+    S:gt.tileentity.portal.caveland.tooltip.2=Margin of Error to still work: 128 Meters.
+    S:gt.tileentity.portal.cavenia.tooltip.1=Only works between Cavenia and the Overworld!
+    S:gt.tileentity.portal.cavenia.tooltip.2=Margin of Error to still work: 128 Meters.
+    S:gt.tileentity.portal.cavern.tooltip.1=Only works between Cavern and the Overworld!
+    S:gt.tileentity.portal.cavern.tooltip.2=Margin of Error to still work: 128 Meters.
+    S:gt.tileentity.portal.caveworld.tooltip.1=Only works between Caveworld and the Overworld!
+    S:gt.tileentity.portal.caveworld.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.deepdark.tooltip.1=Only works between the Deep Dark and the Overworld!
     S:gt.tileentity.portal.deepdark.tooltip.2=Margin of Error to still work: 128 Meters.
     S:gt.tileentity.portal.deepdark.tooltip.3=Requires a Bedrockium Ingot for activation

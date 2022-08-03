@@ -3,6 +3,7 @@
     S:gt.drink.apricotsmoothie=
     S:gt.drink.bananasmoothie=
     S:gt.drink.bawls=Here, take a cold and refreshing sip of my BAWLS
+    S:gt.drink.bbqsauce=Also called BBQ Sauce
     S:gt.drink.beer=Not to be confused with Beerus, the God of Destruction
     S:gt.drink.beetjuice=Beets me.
     S:gt.drink.binnie.beerale=
@@ -35,7 +36,7 @@
     S:gt.drink.binnie.juicelemon=Maybe adding Sugar will make it less sour
     S:gt.drink.binnie.juicelime=
     S:gt.drink.binnie.juiceolive=
-    S:gt.drink.binnie.juiceorange=A very annoying Juice
+    S:gt.drink.binnie.juiceorange=All 100% of it!
     S:gt.drink.binnie.juicepeach=The Princess is in another Castle
     S:gt.drink.binnie.juicepear=
     S:gt.drink.binnie.juicepineapple=Made of Trees!
@@ -151,6 +152,7 @@
     S:gt.drink.limesmoothie=
     S:gt.drink.limoncello=An alcoholic Drink which tastes like Lemons
     S:gt.drink.linoil=
+    S:gt.drink.lubricant=Industrial Use ONLY!
     S:gt.drink.mangojuice=
     S:gt.drink.mangosmoothie=
     S:gt.drink.maplesap=May or may not be Canadian
@@ -318,6 +320,7 @@
     S:gt.drink.seedoil=
     S:gt.drink.short.mead=A Vikings favourite brew
     S:gt.drink.slime=Green Slime Juice
+    S:gt.drink.slime.blue=Blue Slime Juice
     S:gt.drink.sluicejuice=
     S:gt.drink.soda=Simply carbonated Water
     S:gt.drink.soymilk=Milk Substitute
@@ -334,6 +337,8 @@
     S:gt.drink.vinegar=
     S:gt.drink.water=Regular H2O, remember to stay hydrated!
     S:gt.drink.waterdirty=Dirty
+    S:gt.drink.watergeothermal=Fresh from the Geothermal Hot Spring!
+    S:gt.drink.whaleoil=
     S:gt.drink.wheathopsmash=Also known as 'Duff-Lite'
     S:gt.drink.whitegrapesmoothie=
     S:gt.drink.wine=Exquisite
