@@ -164,9 +164,9 @@
     S:itemGroup.toolHeadRawShovel=Заготовки основ лопаты
     S:itemGroup.toolHeadRawSpade=Заготовки основ совк.лопаты
     S:itemGroup.toolHeadRawSword=Заготовки основ мечей
-    S:itemGroup.toolHeadRawUniversalSpade=Raw Universal Spade Heads
+    S:itemGroup.toolHeadRawUniversalSpade=Заготовки основ универсальной лопаты
     S:itemGroup.toolHeadSaw=Основы пилы
-    S:itemGroup.toolHeadScrewdriver=Screwdriver Tips
+    S:itemGroup.toolHeadScrewdriver=Наконечники отвертки
     S:itemGroup.toolHeadSense=Основа косы
     S:itemGroup.toolHeadShovel=Основы лопаты
     S:itemGroup.toolHeadSpade=Основы совк.лопаты
