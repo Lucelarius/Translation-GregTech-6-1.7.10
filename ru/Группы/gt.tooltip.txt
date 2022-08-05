@@ -22,7 +22,8 @@
     S:gt.tooltip.multiblock.bedrockdrill.1=3x3 Основа из наконечников бура коренной породы, распологающихся на рудах коренных пород
     S:gt.tooltip.multiblock.bedrockdrill.2=Полная 3x4x3 из прочных стен из титана сверху
     S:gt.tooltip.multiblock.bedrockdrill.3=Главный блок распологается сверху в центре титановой башни и направлен вверх
-    S:gt.tooltip.multiblock.bedrockdrill.4=Требуются смазка и питание для работы бура
+    S:gt.tooltip.multiblock.bedrockdrill.4=Для добычи требуется смазка, мощность и место 3x3 на бедроке (-руде)
+    S:gt.tooltip.multiblock.bedrockdrill.5=Также работает с "HBM's Bedrock Ores", даже если это не полноценный бедрок 3x3.
     S:gt.tooltip.multiblock.centrifuge.1=3x3x2 из частей центрифуги
     S:gt.tooltip.multiblock.centrifuge.2=Главный блок распологается по центру сбоку снизу и направлен наружу
     S:gt.tooltip.multiblock.centrifuge.3=Ввод и вывод с любых блоков
@@ -69,7 +70,7 @@
     S:gt.tooltip.multiblock.fusionreactor.5=Выход энергии на электрических интерфейсах
     S:gt.tooltip.multiblock.fusionreactor.6=Лазерный вход на стеклянном кольце
     S:gt.tooltip.multiblock.fusionreactor.7=Предметы и жидкости обрабатываются на обычных стенах
-    S:gt.tooltip.multiblock.gasturbine.1=3x3x4 из того же материала, что и главный блок
+    S:gt.tooltip.multiblock.gasturbine.1=Стены 3x3x4 из того же материала
     S:gt.tooltip.multiblock.gasturbine.2=Главный блок распологается в центре стороны 3х3 и направлен наружу
     S:gt.tooltip.multiblock.gasturbine.3=Ввод возможен только в главном блоке
     S:gt.tooltip.multiblock.gasturbine.4=Выхлопные газы должны быть удалены!
@@ -130,7 +131,7 @@
     S:gt.tooltip.multiblock.squeezer.1=Полая 5x5x3 из 65 стальных стен
     S:gt.tooltip.multiblock.squeezer.2=Главный блок распологается по центру сбоку снизу и направлен наружу
     S:gt.tooltip.multiblock.squeezer.3=Ввод в верхнем слое, вывод в нижнем слое
-    S:gt.tooltip.multiblock.steamturbine.1=3x3x4 из того же материала, что и главный блок
+    S:gt.tooltip.multiblock.steamturbine.1=Стены 3x3x4 из того же материала, что и главный блок
     S:gt.tooltip.multiblock.steamturbine.2=Главный блок по центру стороны 3х3 и направлен наружу
     S:gt.tooltip.multiblock.steamturbine.3=Ввод возможен только в главном блоке
     S:gt.tooltip.multiblock.steamturbine.4=Дистиллированная вода может быть откачана в нижнем слое
@@ -162,13 +163,14 @@
     S:gt.tooltip.sensor.mediumweightometer=Датчик веса (В Килограммах)
     S:gt.tooltip.sensor.playercounter=Датчик игроков на сервере
     S:gt.tooltip.sensor.progressmeter=Датчик выполнения (или отсчитывает время до следующего спавна)
-    S:gt.tooltip.sensor.screwdrive.buttons=Используйте Отвертку на кнопках, чтобы включить режим усреднения.
-    S:gt.tooltip.sensor.screwdrive.display=Используйте отвертку на дисплее, чтобы переключить шестнадцатеричный дисплей.
-    S:gt.tooltip.sensor.screwdrive.modes=Используйте отвертку для переключения режимов.
+    S:gt.tooltip.sensor.screwdrive.buttons=Используйте Отвертку на кнопках, чтобы включить режим усреднения
+    S:gt.tooltip.sensor.screwdrive.display=Используйте отвертку на дисплее, чтобы переключить шестнадцатеричный дисплей
+    S:gt.tooltip.sensor.screwdrive.modes=Используйте отвертку для переключения режимов
     S:gt.tooltip.sensor.stackometer=Датчик пачек предметов
     S:gt.tooltip.sensor.superheavyweightometer=Датчик веса (В Килотоннах)
     S:gt.tooltip.sensor.tachometer=Датчик вращения оси (В RU)
     S:gt.tooltip.sensor.thermometer=Датчик температуры (В Кельвинах)
     S:gt.tooltip.sensor.tpsmeter=Датчик производительности сервера (TPS)
+    S:gt.tooltip.stone.moss.bonemeal=Используйте костяную муку или что-то подобное, чтобы разложить мох
     S:gt.tooltip.stone.mushroom.no=Грибы не растут на гладких камнях!
     S:gt.tooltip.stone.mushroom.yes=Грибы могут прорости на этом грубом камне

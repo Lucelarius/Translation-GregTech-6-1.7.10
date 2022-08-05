@@ -95,6 +95,7 @@
     S:gt.td.short.prefix.unificatable=Unificatable
     S:gt.td.short.prefix.unificatable_recipes=Recipe Unificatable
     S:gt.td.short.prefix.weapon_alike=Weapon
+    S:gt.td.short.prefix.wire_based=Wire
     S:gt.td.short.processing.blacklisted_smelter=Not Meltable in a Smelter
     S:gt.td.short.processing.centrifugable=Centrifugable
     S:gt.td.short.processing.crucible_alloy=Crucible Alloyable
@@ -114,6 +115,7 @@
     S:gt.td.short.processing.soldering_material_good=Good Soldering Metal
     S:gt.td.short.processing.unrecyclable=Not Recyclable
     S:gt.td.short.processing.uum_synthesisable=UUM Synthesisable
+    S:gt.td.short.processing.washing_firestone=Firestone Washable
     S:gt.td.short.processing.washing_mercury=Mercury Washable
     S:gt.td.short.processing.washing_persulfate=Persulfate Washable
     S:gt.td.short.projectiles.arrow=Arrow
@@ -132,6 +134,7 @@
     S:gt.td.short.properties.crystal=Crystal
     S:gt.td.short.properties.dont_show_this_component=Not shown as Component
     S:gt.td.short.properties.ender_dragon_proof=Ender Dragon Proof
+    S:gt.td.short.properties.explodes_in_nonvanilla_crafting_grid=Explodes in Non-Vanilla Crafting Tables!
     S:gt.td.short.properties.explosive=Explosive
     S:gt.td.short.properties.flammable=Flammable
     S:gt.td.short.properties.food=Food
@@ -150,6 +153,7 @@
     S:gt.td.short.properties.no_advanced_tools=No Advanced Tools
     S:gt.td.short.properties.pearl=Pearl
     S:gt.td.short.properties.quartz=Quartz
+    S:gt.td.short.properties.random_small_gem_ore=Random Small Gem Ore
     S:gt.td.short.properties.rotten=Rotten
     S:gt.td.short.properties.stone=Stone
     S:gt.td.short.properties.stretchy=Stretchy

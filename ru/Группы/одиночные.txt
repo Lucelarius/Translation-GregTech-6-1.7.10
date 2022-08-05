@@ -1,5 +1,6 @@
     S:"Dirty Water.name"=Грязная вода
     S:"Heavy Oil.name"=Тяжелая нефть
+    S:"Hot Spring Water.name"=Горячий источник воды
     S:"Light Oil.name"=Легкая нефть
     S:"Natural Gas.name"=Природный газ
     S:"Raw Oil.name"=Сырая нефть
@@ -24,9 +25,20 @@
     S:gt.empty_slot.name=Пустой слот
     S:gt.empty_slot.tooltip_main=Этот слот должен быть оставлен пустым
     S:gt.grass.tooltip=Не распространяется, не съедается, не меняет цвет и не нуждается в свете
+    S:gt.grass.tooltip.spray=Аэрозольную краску также можно использовать для окрашивания травы!
     S:gt.integrated_circuit.name=Настройщик
     
     S:gt.weapon.sneak.rightclick.reload=Красться и ПКМ для перезагрузки
 
+    S:loot.bonusChest=Бонусный сундук
+    S:loot.dungeonChest=Подземелья
+    S:loot.mineshaftCorridor=Шахты
+    S:loot.pyramidDesertyChest=Пирамиды пустыни
+    S:loot.pyramidJungleChest=Храма джунглей
+    S:loot.pyramidJungleDispenser=Распылителя
+    S:loot.strongholdCorridor=Коридора
+    S:loot.strongholdCrossing=Хранилища
+    S:loot.strongholdLibrary=Библиотеки
+    S:loot.villageBlacksmith=Кузницы
     S:mc.recipe.furnace=Печь
-    S:mc.recipe.furnacefuel=Печное топливо (1 плавление = 5000 Юнитов)  
+    S:mc.recipe.furnacefuel=Печное топливо (1 плавление = 5000 Юнитов)

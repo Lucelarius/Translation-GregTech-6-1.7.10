@@ -7,7 +7,7 @@
     S:gt.metatool.01.100.name=Шахтерский бур (LV)
     S:gt.metatool.01.100.tooltip=
     S:gt.metatool.01.1000.name=Карманный мультиинструмент
-    S:gt.metatool.01.1000.tooltip=Нажмите ПКМ, чтобы переключить инструмент
+    S:gt.metatool.01.1000.tooltip=7 полезных инструментов в одном!
     S:gt.metatool.01.1001.name=Карманный мультиинструмент (Пусто)
     S:gt.metatool.01.1001.tooltip=Вам нужно перезарядить его
     S:gt.metatool.01.1002.name=Карманный мультиинструмент (Нож)
@@ -141,7 +141,7 @@
     S:gt.metatool.01.23.name=Отвертка (Пусто)
     S:gt.metatool.01.23.tooltip=Вам нужно перезарядить его
     S:gt.metatool.01.24.name=Дубина
-    S:gt.metatool.01.24.tooltip=Тупое примитивное оружие с большой силой
+    S:gt.metatool.01.24.tooltip=Тупое примитивное оружие и камнедробилка
     S:gt.metatool.01.25.name=Дубина (Пусто)
     S:gt.metatool.01.25.tooltip=Вам нужно перезарядить его
     S:gt.metatool.01.26.name=Кусачки
@@ -239,7 +239,7 @@
     S:gt.metatool.01.7.name=Топор (Пусто)
     S:gt.metatool.01.7.tooltip=Вам нужно перезарядить его
     S:gt.metatool.01.70.name=Кирка с самоцветным наконечником
-    S:gt.metatool.01.70.tooltip=
+    S:gt.metatool.01.70.tooltip=Половина долговечности полной кирки
     S:gt.metatool.01.71.name=Кирка с самоцветным наконечником (Пусто)
     S:gt.metatool.01.71.tooltip=Вам нужно перезарядить его
     S:gt.metatool.01.72.name=Ручная дрель

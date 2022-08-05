@@ -3,6 +3,7 @@
     S:gt.drink.apricotsmoothie=
     S:gt.drink.bananasmoothie=
     S:gt.drink.bawls=Вот, сделай холодный и освежающий глоток моего BAWLS
+    S:gt.drink.bbqsauce=Также называется соусом барбекю.
     S:gt.drink.beer=Не путать с Берусом, богом разрушения.
     S:gt.drink.beetjuice=Beets me.
     S:gt.drink.binnie.beerale=
@@ -35,7 +36,7 @@
     S:gt.drink.binnie.juicelemon=Может быть, добавление сахара сделает его менее кислым
     S:gt.drink.binnie.juicelime=
     S:gt.drink.binnie.juiceolive=
-    S:gt.drink.binnie.juiceorange=Очень надоедливый сок
+    S:gt.drink.binnie.juiceorange=На все 100%!
     S:gt.drink.binnie.juicepeach=Принцесса в другом замке
     S:gt.drink.binnie.juicepear=
     S:gt.drink.binnie.juicepineapple=Сделано из деревьев!
@@ -151,6 +152,7 @@
     S:gt.drink.limesmoothie=
     S:gt.drink.limoncello=Алкогольный напиток со вкусом лимона.
     S:gt.drink.linoil=
+    S:gt.drink.lubricant=ТОЛЬКО для промышленного использования!
     S:gt.drink.mangojuice=
     S:gt.drink.mangosmoothie=
     S:gt.drink.maplesap=Может быть или не быть канадцем
@@ -318,6 +320,7 @@
     S:gt.drink.seedoil=
     S:gt.drink.short.mead=Любимый напиток викингов
     S:gt.drink.slime=Сок зеленой слизи
+    S:gt.drink.slime.blue=Сок синей слизи
     S:gt.drink.sluicejuice=
     S:gt.drink.soda=Просто газированная вода
     S:gt.drink.soymilk=Заменитель молока
@@ -334,6 +337,8 @@
     S:gt.drink.vinegar=
     S:gt.drink.water=Обычная H2O, не забывайте пить!
     S:gt.drink.waterdirty=Грязный
+    S:gt.drink.watergeothermal=Только что из геотермального горячего источника!
+    S:gt.drink.whaleoil=
     S:gt.drink.wheathopsmash=Также известен как «Duff-Lite»
     S:gt.drink.whitegrapesmoothie=
     S:gt.drink.wine=Изысканный

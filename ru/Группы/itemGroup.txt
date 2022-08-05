@@ -1,10 +1,12 @@
     S:itemGroup.arrowGtPlastic=Легкие стрелы
     S:itemGroup.arrowGtWood=Обычные стрелы
+    S:itemGroup.billet=Заготовки
     S:itemGroup.blockDust=Блоки из пыли
     S:itemGroup.blockGem=Блоки из драг.камней
     S:itemGroup.blockIngot=Блоки из слитков
     S:itemGroup.blockPlate=Блоки из пластин
     S:itemGroup.blockPlateGem=Блоки из пластин драг.камней
+    S:itemGroup.blockRaw=Блоки руды
     S:itemGroup.blockSolid=Блоки из литого металла
     S:itemGroup.bolt=Болты
     S:itemGroup.bouleGt=Монокристаллы
@@ -24,6 +26,7 @@
     S:itemGroup.crateGt64Ingot=Ящики со слитками
     S:itemGroup.crateGt64Plate=Ящики с пластинами
     S:itemGroup.crateGt64PlateGem=Ящики с пластинами драг.камней
+    S:itemGroup.crateGt64Raw=Ящики с рудой
     S:itemGroup.crushed=Дробленые руды
     S:itemGroup.crushedCentrifuged=Переработанные руды
     S:itemGroup.crushedCentrifugedTiny=Крошечные переработанные руды
@@ -33,7 +36,6 @@
     S:itemGroup.dust=Пыль
     S:itemGroup.dustDiv72=1/72 пыли
     S:itemGroup.dustImpure=Пыль с примесями
-    S:itemGroup.dustPure=Очищенная пыль
     S:itemGroup.dustSmall=Кучки пыли
     S:itemGroup.dustTiny=Небольшие кучки пыли
     S:itemGroup.foil=Фольга
@@ -113,6 +115,7 @@
     S:itemGroup.lens=Линзы
     S:itemGroup.minecartWheels=Колеса тележки
     S:itemGroup.nugget=Самородки
+    S:itemGroup.oreRaw=Сырые руды
     S:itemGroup.oreVanillastone=Каменные руды
     S:itemGroup.plate=Пластины
     S:itemGroup.plateCurved=Гнутые пластины

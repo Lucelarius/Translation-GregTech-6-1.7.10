@@ -63,7 +63,7 @@
     S:gt.recipe.mixer=Миксер
     S:gt.recipe.mortar=Ступка
     S:gt.recipe.nanofab=Нано-фабрикатор
-    S:gt.recipe.other=Другая связь
+    S:gt.recipe.other=Вы знали...?
     S:gt.recipe.plantalyzer=Анализатор растений
     S:gt.recipe.polarizer=Намагничиватель
     S:gt.recipe.press=Пресс
@@ -83,6 +83,7 @@
     S:gt.recipe.smelter=Плавильня
     S:gt.recipe.squeezer=Выжиматель
     S:gt.recipe.steamcracking=Паровой крекер
+    S:gt.recipe.toolhead=Сборка основы и рукоятки
     S:gt.recipe.trees=Гениалогическое дерево
     S:gt.recipe.unboxinator=Распоковщик
     S:gt.recipe.vacuumfreezer=Вакуумный морозильник

@@ -26,6 +26,7 @@
     S:gt.lang.emits.redstoneflux.lossless=Может излучать "Редстоун Сигнал" (RF) без потерь
     S:gt.lang.emits.redstoneflux.lossy=Может излучать "Редстоун Сигнал" (RF) с потерями
     S:gt.lang.emits.used.steam=Выпускает использованный пар
+    S:gt.lang.enchantment.bonus=Может влиять на стол зачарования, как на книжную полку.
     S:gt.lang.energy.capacity=Вместимость
     S:gt.lang.energy.contained=Хранится энергии
     S:gt.lang.energy.convert.from=Конвертирует
@@ -102,13 +103,13 @@
     S:gt.lang.recipes=Рецепты
     S:gt.lang.recipes.anvil.usage=Разместите материал сверху и используйте молот сверху или сбоку
     S:gt.lang.recipes.autohammer=Дробит установленный перед ним блок
-    S:gt.lang.recipes.bathingsink.usage=Разместите материал сверху и нажмите ПКМ
+    S:gt.lang.recipes.bathingsink.usage=Поместите ввод в центр, заполните жидкостью ободок, затем щелкните его ПКМ.
     S:gt.lang.recipes.dustfunnel=Превращает все пыли разного размера в указанный размер
     S:gt.lang.recipes.grindstone.init=Добавьте блок песчаника перед использованием
     S:gt.lang.recipes.grindstone.usage=Нажмите несколько раз предметом ПКМ, который хотите заточить
     S:gt.lang.recipes.igniter=Воспламеняет блок, находящийся у лицевой стороны машины
     S:gt.lang.recipes.juicer.usage=Нажмите ПКМ предметом, из которого хотите получить сок.
-    S:gt.lang.recipes.mixingbowl.usage=Разместите материал сверху и нажмите ПКМ
+    S:gt.lang.recipes.mixingbowl.usage=Поместите ввод в центр, заполните жидкостью ободок, затем щелкните его ПКМ.
     S:gt.lang.recipes.mold=Эта форма производит
     S:gt.lang.recipes.mold.coinage=Поместите крошечную металлическую пластину сверху, забейте ее и возьмите монету.
     S:gt.lang.recipes.mold.select=Используйте долото, чтобы выбрать форму
@@ -126,6 +127,7 @@
     S:gt.lang.requirement.water.any=Требуется подача любой воды!
     S:gt.lang.requirement.water.distilled=Требуется подача дистиллированной воды!
     S:gt.lang.requirement.water.pure=Требуется любая вода. Используйте дистиллированную воду для лучшей эффективности!
+    S:gt.lang.sandwichable=Является допустимым ингредиентом для сэндвичей
     S:gt.lang.sealable.any=Этот блок может запечатать воздух на любой стороне
     S:gt.lang.sealable.bug=Не должен запечатывать воздух, но иногда делает, потому что непрозрачный
     S:gt.lang.sealable.some=Этот блок может запечатать воздух на некоторых сторонах
@@ -195,7 +197,7 @@
     S:gt.lang.tool.tooltip.chisel=Формирует узоры на блоках, настраивает литейные формы
     S:gt.lang.tool.tooltip.crowbar=Демонтирует покрытия и настраивает рельсы
     S:gt.lang.tool.tooltip.cutter=Обрезает и соединяет провода
-    S:gt.lang.tool.tooltip.drill=Размещает динамитные палочки и укрепляет кирпичи
+    S:gt.lang.tool.tooltip.drill=Сверлит отверстия и укрепляет кирпичи
     S:gt.lang.tool.tooltip.ducttape=
     S:gt.lang.tool.tooltip.extinguisher=Тушит огонь
     S:gt.lang.tool.tooltip.file=
@@ -234,6 +236,7 @@
     S:gt.lang.unburnable=Несгораемый!
     S:gt.lang.use.chisel.to.decalcify=Используйте долото для удаления накипи
     S:gt.lang.use.chisel.to.switch.design=Используйте долото, чтобы изменить дизайн
+    S:gt.lang.use.controlcover.to.toggle=Используйте покрытие контроллер для включения/выключения
     S:gt.lang.use.crowbar.to.open=Используйте монтировку, чтобы открыть это
     S:gt.lang.use.crowbar.to.uncover=Используйте монтировку, чтобы снять покрытие
     S:gt.lang.use.cutter.to.toggle=Используйте кусачки для смены режима
@@ -258,8 +261,10 @@
     S:gt.lang.use.untape=Используйте ножницы или ножи, чтобы удалить ленту
     S:gt.lang.use.x.to.toggle.connection.post= для настройки соединения
     S:gt.lang.use.x.to.toggle.connection.pre=Используйте 
-    S:gt.lang.use.x.to.toggle.facing.post= для настройки покрытия
+    S:gt.lang.use.x.to.toggle.facing.post= для настройки ориентации
     S:gt.lang.use.x.to.toggle.facing.pre=Используйте 
+    S:gt.lang.use.x.to.toggle.facing2.post= для настройки вторичной ориентации
+    S:gt.lang.use.x.to.toggle.facing2.pre=Используйте 
     S:gt.lang.walkspeed=Этот блок изменяет скорость ходьбы
     S:gt.lang.wire.stats.amperage=Сила тока: 
     S:gt.lang.wire.stats.loss=Потери: 

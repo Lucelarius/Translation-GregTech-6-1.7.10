@@ -246,6 +246,7 @@
     S:gt.multitileentity.1158.name=Прочная камера сгорания (Твердое, Вольфрамовая сталь)
     S:gt.multitileentity.1159.name=Прочная камера сгорания (Твердое, Карбид тантала-гафния)
     S:gt.multitileentity.1160.name=Прочная камера сгорания (Твердое, Netherite)
+    S:gt.multitileentity.1199.name=Кирпичная камера сгорания (Твердое)
     S:gt.multitileentity.12.name=Сундук (Титан)
     S:gt.multitileentity.1200.name=Паровой котёл (Свинец)
     S:gt.multitileentity.1201.name=Паровой котёл (Висмут)
@@ -832,7 +833,7 @@
     S:gt.multitileentity.20363.name=Электрический ткацкий станок (HV)
     S:gt.multitileentity.20364.name=Электрический ткацкий станок (EV)
     S:gt.multitileentity.20365.name=Электрический ткацкий станок (IV)
-    S:gt.multitileentity.2037.name=Механический сейф ('Осмий')
+    S:gt.multitileentity.2037.name=Механический сейф (Константан)
     S:gt.multitileentity.20371.name=Элекртический просеиватель (LV)
     S:gt.multitileentity.20372.name=Элекртический просеиватель (MV)
     S:gt.multitileentity.20373.name=Элекртический просеиватель (HV)
@@ -911,6 +912,7 @@
     S:gt.multitileentity.20543.name=Анализатор шмелей (HV)
     S:gt.multitileentity.20544.name=Анализатор шмелей (EV)
     S:gt.multitileentity.20545.name=Анализатор шмелей (IV)
+    S:gt.multitileentity.2055.name=Механический сейф (Рабочий сплав)
     S:gt.multitileentity.20551.name=Корообдирка (Бронза)
     S:gt.multitileentity.20552.name=Корообдирка (Сталь)
     S:gt.multitileentity.20553.name=Корообдирка (Титан)
@@ -1035,12 +1037,12 @@
     S:gt.multitileentity.25055.name=Ограничительная предметная труба из кобальтовой латуни
     S:gt.multitileentity.25056.name=Ограничительная большая предметная труба из кобальтовой латуни
     S:gt.multitileentity.25057.name=Ограничительная огромная предметная труба из кобальтовой латуни
-    S:gt.multitileentity.25077.name=Предметная труба из 'осмия'
-    S:gt.multitileentity.25078.name=Большая предметная труба из 'осмия'
-    S:gt.multitileentity.25079.name=Огромная предметная труба из 'осмия'
-    S:gt.multitileentity.25080.name=Ограничительная предметная труба из 'осмия'
-    S:gt.multitileentity.25081.name=Ограничительная большая предметная труба из 'осмия'
-    S:gt.multitileentity.25082.name=Ограничительная огромная предметная труба из 'осмия'
+    S:gt.multitileentity.25077.name=Предметная труба из германия
+    S:gt.multitileentity.25078.name=Большая предметная труба из германия
+    S:gt.multitileentity.25079.name=Огромная предметная труба из германия
+    S:gt.multitileentity.25080.name=Ограничительная предметная труба из германия
+    S:gt.multitileentity.25081.name=Ограничительная большая предметная труба из германия
+    S:gt.multitileentity.25082.name=Ограничительная огромная предметная труба из германия
     S:gt.multitileentity.25102.name=Предметная труба из электрума
     S:gt.multitileentity.25103.name=Большая предметная труба из электрума
     S:gt.multitileentity.25104.name=Огромная предметная труба из электрума
@@ -1391,6 +1393,20 @@
     S:gt.multitileentity.26724.name=Огромная жидкостная труба из Efrine
     S:gt.multitileentity.26725.name=4-х канальная жидкостная труба из Efrine
     S:gt.multitileentity.26726.name=9-ти канальная жидкостная труба из Efrine
+    S:gt.multitileentity.26740.name=Крохотная жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26741.name=Маленькая жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26742.name=Жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26743.name=Большая жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26744.name=Огромная жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26745.name=4-х канальная жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26746.name=9-ти канальная жидкостная труба из ванадиевой стали
+    S:gt.multitileentity.26760.name=Крохотная жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26761.name=Маленькая жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26762.name=Жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26763.name=Большая жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26764.name=Огромная жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26765.name=4-х канальная жидкостная труба из рабочего сплава
+    S:gt.multitileentity.26766.name=9-ти канальная жидкостная труба из рабочего сплава
     S:gt.multitileentity.27.name=Сундук (Thaumium)
     S:gt.multitileentity.27000.name=Провод из красного сплава
     S:gt.multitileentity.27006.name=Кабель из красного сплава
@@ -2067,7 +2083,7 @@
     S:gt.multitileentity.3034.name=Сейф с замком (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.3035.name=Сейф с замком (Draconium)
     S:gt.multitileentity.3036.name=Сейф с замком (Awakened Draconium)
-    S:gt.multitileentity.3037.name=Сейф с замком ('Осмий')
+    S:gt.multitileentity.3037.name=Сейф с замком (Константан)
     S:gt.multitileentity.3038.name=Сейф с замком (Ардит)
     S:gt.multitileentity.3039.name=Сейф с замком (Manyullyn)
     S:gt.multitileentity.3040.name=Сейф с замком (ManaСталь)
@@ -2085,6 +2101,7 @@
     S:gt.multitileentity.3052.name=Сейф с замком (Вольфрамовый сплав)
     S:gt.multitileentity.3053.name=Сейф с замком (Efrine)
     S:gt.multitileentity.3054.name=Сейф с замком (Lumium)
+    S:gt.multitileentity.3055.name=Сейф с замком (Рабочий сплав)
     S:gt.multitileentity.31.name=Сундук (Дюрановый сплав)
     S:gt.multitileentity.31000.name=Датчик температуры
     S:gt.multitileentity.31001.name=Датчик давления
@@ -2139,11 +2156,11 @@
     S:gt.multitileentity.32030.name=Наковальня (Железное дерево)
     S:gt.multitileentity.32031.name=Наковальня (Сталь)
     S:gt.multitileentity.32032.name=Наковальня (Thaumium)
-    S:gt.multitileentity.32033.name=Наковальня (ManaСталь)
-    S:gt.multitileentity.32034.name=Наковальня (Black Сталь)
-    S:gt.multitileentity.32035.name=Наковальня (Red Сталь)
-    S:gt.multitileentity.32036.name=Наковальня (Blue Сталь)
-    S:gt.multitileentity.32037.name=Наковальня (VanadiumСталь)
+    S:gt.multitileentity.32033.name=Наковальня (Mana-Сталь)
+    S:gt.multitileentity.32034.name=Наковальня (Черная сталь)
+    S:gt.multitileentity.32035.name=Наковальня (Синяя сталь)
+    S:gt.multitileentity.32036.name=Наковальня (Красная сталь)
+    S:gt.multitileentity.32037.name=Наковальня (Ванадиевая сталь)
     S:gt.multitileentity.32038.name=Наковальня (Octine)
     S:gt.multitileentity.32039.name=Наковальня (Огненная сталь)
     S:gt.multitileentity.32040.name=Наковальня (Титан)
@@ -2202,6 +2219,16 @@
     S:gt.multitileentity.32093.name=Бочка (Efrine)
     S:gt.multitileentity.32094.name=Ступка
     S:gt.multitileentity.32095.name=Наковальня (Чернит)
+    S:gt.multitileentity.32096.name=Миниатюрный портал (Mining)
+    S:gt.multitileentity.32097.name=Миниатюрный портал (Caveworld)
+    S:gt.multitileentity.32098.name=Миниатюрный портал (Cavern)
+    S:gt.multitileentity.32099.name=Миниатюрный портал (Aqua Cavern)
+    S:gt.multitileentity.32100.name=Миниатюрный портал (Caveland)
+    S:gt.multitileentity.32101.name=Миниатюрный портал (Cavenia)
+    S:gt.multitileentity.32102.name=Бочка (Бронза)
+    S:gt.multitileentity.32103.name=Остатки
+    S:gt.multitileentity.32104.name=Взрывная палка
+    S:gt.multitileentity.32105.name=Сэндвич
     S:gt.multitileentity.32252.name=Деревянная панель
     S:gt.multitileentity.32253.name=Деревянная панель
     S:gt.multitileentity.32254.name=Деревянная панель
@@ -2588,6 +2615,7 @@
     S:gt.multitileentity.32635.name=Капсульный контейнер (Золото)
     S:gt.multitileentity.32636.name=Капсульный контейнер (Вольфрамовый сплав)
     S:gt.multitileentity.32637.name=Капсульный контейнер (Efrine)
+    S:gt.multitileentity.32638.name=Капсульный контейнер (Рабочий сплав)
     S:gt.multitileentity.32700.name=Монета
     S:gt.multitileentity.32701.name=монетная форма
     S:gt.multitileentity.32702.name=Просеивающий стол
@@ -2603,7 +2631,7 @@
     S:gt.multitileentity.32712.name=Сильный динамит
     S:gt.multitileentity.32713.name=Динамит
     S:gt.multitileentity.32714.name=Деревянная бочка
-    S:gt.multitileentity.32715.name=Пластиковая банка
+    S:gt.multitileentity.32715.name=Пластиковая канистра
     S:gt.multitileentity.32716.name=Бочка (Нержавеющая сталь)
     S:gt.multitileentity.32717.name=Бочка (Вольфрамовая сталь)
     S:gt.multitileentity.32718.name=Бочка (Вольфрам)
@@ -2633,7 +2661,7 @@
     S:gt.multitileentity.32742.name=Бочка (Титан)
     S:gt.multitileentity.32743.name=Мерный стакан (Нержавеющая сталь)
     S:gt.multitileentity.32744.name=Мерный стакан (Вольфрам)
-    S:gt.multitileentity.32745.name=Сундук с добычей
+    S:gt.multitileentity.32745.name=Замшелый каменный сундук
     S:gt.multitileentity.32746.name=Сопло керамическое
     S:gt.multitileentity.32747.name=Сопло пластиковое
     S:gt.multitileentity.32748.name=Сопло из нержавеющей стали
@@ -2659,7 +2687,7 @@
     S:gt.multitileentity.34.name=Сундук (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.35.name=Сундук (Draconium)
     S:gt.multitileentity.36.name=Сундук (Awakened Draconium)
-    S:gt.multitileentity.37.name=Сундук (Осмий)
+    S:gt.multitileentity.37.name=Сундук (Константан)
     S:gt.multitileentity.38.name=Сундук (Ардит)
     S:gt.multitileentity.39.name=Сундук (Manyullyn)
     S:gt.multitileentity.4.name=Сундук (Платина)
@@ -2701,7 +2729,7 @@
     S:gt.multitileentity.4034.name=Выдвижной ящик (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.4035.name=Выдвижной ящик (Draconium)
     S:gt.multitileentity.4036.name=Выдвижной ящик (Awakened Draconium)
-    S:gt.multitileentity.4037.name=Выдвижной ящик ('Осмий')
+    S:gt.multitileentity.4037.name=Выдвижной ящик (Константан)
     S:gt.multitileentity.4038.name=Выдвижной ящик (Ардит)
     S:gt.multitileentity.4039.name=Выдвижной ящик (Manyullyn)
     S:gt.multitileentity.4040.name=Выдвижной ящик (ManaСталь)
@@ -2719,6 +2747,7 @@
     S:gt.multitileentity.4052.name=Выдвижной ящик (Вольфрамовый сплав)
     S:gt.multitileentity.4053.name=Выдвижной ящик (Efrine)
     S:gt.multitileentity.4054.name=Выдвижной ящик (Lumium)
+    S:gt.multitileentity.4055.name=Выдвижной ящик (Рабочий сплав)
     S:gt.multitileentity.41.name=Сундук (Elementium)
     S:gt.multitileentity.42.name=Сундук (TerraСталь)
     S:gt.multitileentity.43.name=Сундук (Метиорит)
@@ -2771,7 +2800,7 @@
     S:gt.multitileentity.5034.name=Улучшенный верстак (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.5035.name=Улучшенный верстак (Draconium)
     S:gt.multitileentity.5036.name=Улучшенный верстак (Awakened Draconium)
-    S:gt.multitileentity.5037.name=Улучшенный верстак ('Осмий')
+    S:gt.multitileentity.5037.name=Улучшенный верстак (Константан)
     S:gt.multitileentity.5038.name=Улучшенный верстак (Ардит)
     S:gt.multitileentity.5039.name=Улучшенный верстак (Manyullyn)
     S:gt.multitileentity.504.name=Армированный деревянный сундук (Платина)
@@ -2791,6 +2820,7 @@
     S:gt.multitileentity.5052.name=Улучшенный верстак (Вольфрамовый сплав)
     S:gt.multitileentity.5053.name=Улучшенный верстак (Efrine)
     S:gt.multitileentity.5054.name=Улучшенный верстак (Lumium)
+    S:gt.multitileentity.5055.name=Улучшенный верстак (Рабочий сплав)
     S:gt.multitileentity.506.name=Армированный деревянный сундук (Инвар)
     S:gt.multitileentity.507.name=Армированный деревянный сундук (Электрум)
     S:gt.multitileentity.508.name=Армированный деревянный сундук (Латунь)
@@ -2825,7 +2855,7 @@
     S:gt.multitileentity.534.name=Армированный деревянный сундук (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.535.name=Армированный деревянный сундук (Draconium)
     S:gt.multitileentity.536.name=Армированный деревянный сундук (Awakened Draconium)
-    S:gt.multitileentity.537.name=Армированный деревянный сундук ('Осмий')
+    S:gt.multitileentity.537.name=Армированный деревянный сундук (Константан)
     S:gt.multitileentity.538.name=Армированный деревянный сундук (Ардит)
     S:gt.multitileentity.539.name=Армированный деревянный сундук (Manyullyn)
     S:gt.multitileentity.54.name=Сундук (Lumium)
@@ -2839,6 +2869,7 @@
     S:gt.multitileentity.547.name=Армированный деревянный сундук (Сурьма)
     S:gt.multitileentity.548.name=Армированный деревянный сундук (Ультимет)
     S:gt.multitileentity.549.name=Армированный деревянный сундук (Молибден)
+    S:gt.multitileentity.55.name=Сундук (Рабочий сплав)
     S:gt.multitileentity.550.name=Армированный деревянный сундук (Infinity)
     S:gt.multitileentity.5500.name=Верстак с зарядным устройством (Свинец)
     S:gt.multitileentity.5501.name=Верстак с зарядным устройством (Алюминий)
@@ -2880,7 +2911,7 @@
     S:gt.multitileentity.5534.name=Верстак с зарядным устройством (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.5535.name=Верстак с зарядным устройством (Draconium)
     S:gt.multitileentity.5536.name=Верстак с зарядным устройством (Awakened Draconium)
-    S:gt.multitileentity.5537.name=Верстак с зарядным устройством ('Осмий')
+    S:gt.multitileentity.5537.name=Верстак с зарядным устройством (Константан)
     S:gt.multitileentity.5538.name=Верстак с зарядным устройством (Ардит)
     S:gt.multitileentity.5539.name=Верстак с зарядным устройством (Manyullyn)
     S:gt.multitileentity.554.name=Армированный деревянный сундук (Lumium)
@@ -2894,11 +2925,13 @@
     S:gt.multitileentity.5547.name=Верстак с зарядным устройством (Сурьма)
     S:gt.multitileentity.5548.name=Верстак с зарядным устройством (Ультимет)
     S:gt.multitileentity.5549.name=Верстак с зарядным устройством (Молибден)
+    S:gt.multitileentity.555.name=Армированный деревянный сундук (Рабочий сплав)
     S:gt.multitileentity.5550.name=Верстак с зарядным устройством (Infinity)
     S:gt.multitileentity.5551.name=Верстак с зарядным устройством (Незерит)
     S:gt.multitileentity.5552.name=Верстак с зарядным устройством (Вольфрамовый сплав)
     S:gt.multitileentity.5553.name=Верстак с зарядным устройством (Efrine)
     S:gt.multitileentity.5554.name=Верстак с зарядным устройством (Lumium)
+    S:gt.multitileentity.5555.name=Верстак с зарядным устройством (Рабочий сплав)
     S:gt.multitileentity.6.name=Сундук (Инвар)
     S:gt.multitileentity.6000.name=Массовое хранилище (Свинец)
     S:gt.multitileentity.6001.name=Массовое хранилище (Алюминий)
@@ -2937,7 +2970,7 @@
     S:gt.multitileentity.6034.name=Массовое хранилище (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.6035.name=Массовое хранилище (Draconium)
     S:gt.multitileentity.6036.name=Массовое хранилище (Awakened Draconium)
-    S:gt.multitileentity.6037.name=Массовое хранилище ('Осмий')
+    S:gt.multitileentity.6037.name=Массовое хранилище (Константан)
     S:gt.multitileentity.6038.name=Массовое хранилище (Ардит)
     S:gt.multitileentity.6039.name=Массовое хранилище (Manyullyn)
     S:gt.multitileentity.6040.name=Массовое хранилище (ManaСталь)
@@ -2955,6 +2988,7 @@
     S:gt.multitileentity.6052.name=Массовое хранилище (Вольфрамовый сплав)
     S:gt.multitileentity.6053.name=Массовое хранилище (Efrine)
     S:gt.multitileentity.6054.name=Массовое хранилище (Lumium)
+    S:gt.multitileentity.6055.name=Массовое хранилище (Рабочий сплав)
     S:gt.multitileentity.6200.name=Логистическое массовое хранилище (Свинец)
     S:gt.multitileentity.6201.name=Логистическое массовое хранилище (Алюминий)
     S:gt.multitileentity.6202.name=Логистическое массовое хранилище (Золото)
@@ -2992,7 +3026,7 @@
     S:gt.multitileentity.6234.name=Логистическое массовое хранилище (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.6235.name=Логистическое массовое хранилище (Draconium)
     S:gt.multitileentity.6236.name=Логистическое массовое хранилище (Awakened Draconium)
-    S:gt.multitileentity.6237.name=Логистическое массовое хранилище ('Осмий')
+    S:gt.multitileentity.6237.name=Логистическое массовое хранилище (Константан)
     S:gt.multitileentity.6238.name=Логистическое массовое хранилище (Ардит)
     S:gt.multitileentity.6239.name=Логистическое массовое хранилище (Manyullyn)
     S:gt.multitileentity.6240.name=Логистическое массовое хранилище (ManaСталь)
@@ -3010,6 +3044,7 @@
     S:gt.multitileentity.6252.name=Логистическое массовое хранилище (Вольфрамовый сплав)
     S:gt.multitileentity.6253.name=Логистическое массовое хранилище (Efrine)
     S:gt.multitileentity.6254.name=Логистическое массовое хранилище (Lumium)
+    S:gt.multitileentity.6255.name=Логистическое массовое хранилище (Рабочий сплав)
     S:gt.multitileentity.6983.name=Деревянная бочка для предметов (Skyroot)
     S:gt.multitileentity.6984.name=Деревянная бочка для предметов (Silverwood)
     S:gt.multitileentity.6985.name=Деревянная бочка для предметов (Greatwood)
@@ -3165,7 +3200,7 @@
     S:gt.multitileentity.7134.name=Книжная полка (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7135.name=Книжная полка (Draconium)
     S:gt.multitileentity.7136.name=Книжная полка (Awakened Draconium)
-    S:gt.multitileentity.7137.name=Книжная полка ('Осмий')
+    S:gt.multitileentity.7137.name=Книжная полка (Константан)
     S:gt.multitileentity.7138.name=Книжная полка (Ардит)
     S:gt.multitileentity.7139.name=Книжная полка (Manyullyn)
     S:gt.multitileentity.7140.name=Книжная полка (ManaСталь)
@@ -3183,6 +3218,7 @@
     S:gt.multitileentity.7152.name=Книжная полка (Вольфрамовый сплав)
     S:gt.multitileentity.7153.name=Книжная полка (Efrine)
     S:gt.multitileentity.7154.name=Книжная полка (Lumium)
+    S:gt.multitileentity.7155.name=Книжная полка (Рабочий сплав)
     S:gt.multitileentity.7300.name=Шкаф (Свинец)
     S:gt.multitileentity.7301.name=Шкаф (Алюминий)
     S:gt.multitileentity.7302.name=Шкаф (Золото)
@@ -3220,7 +3256,7 @@
     S:gt.multitileentity.7334.name=Шкаф (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7335.name=Шкаф (Draconium)
     S:gt.multitileentity.7336.name=Шкаф (Awakened Draconium)
-    S:gt.multitileentity.7337.name=Шкаф ('Осмий')
+    S:gt.multitileentity.7337.name=Шкаф (Константан)
     S:gt.multitileentity.7338.name=Шкаф (Ардит)
     S:gt.multitileentity.7339.name=Шкаф (Manyullyn)
     S:gt.multitileentity.7340.name=Шкаф (ManaСталь)
@@ -3238,6 +3274,7 @@
     S:gt.multitileentity.7352.name=Шкаф (Вольфрамовый сплав)
     S:gt.multitileentity.7353.name=Шкаф (Efrine)
     S:gt.multitileentity.7354.name=Шкаф (Lumium)
+    S:gt.multitileentity.7355.name=Шкаф (Рабочий сплав)
     S:gt.multitileentity.7500.name=Заряжающий шкаф (Свинец)
     S:gt.multitileentity.7501.name=Заряжающий шкаф (Алюминий)
     S:gt.multitileentity.7502.name=Заряжающий шкаф (Золото)
@@ -3275,7 +3312,7 @@
     S:gt.multitileentity.7534.name=Заряжающий шкаф (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.7535.name=Заряжающий шкаф (Draconium)
     S:gt.multitileentity.7536.name=Заряжающий шкаф (Awakened Draconium)
-    S:gt.multitileentity.7537.name=Заряжающий шкаф ('Осмий')
+    S:gt.multitileentity.7537.name=Заряжающий шкаф (Константан)
     S:gt.multitileentity.7538.name=Заряжающий шкаф (Ардит)
     S:gt.multitileentity.7539.name=Заряжающий шкаф (Manyullyn)
     S:gt.multitileentity.7540.name=Заряжающий шкаф (ManaСталь)
@@ -3293,6 +3330,7 @@
     S:gt.multitileentity.7552.name=Заряжающий шкаф (Вольфрамовый сплав)
     S:gt.multitileentity.7553.name=Заряжающий шкаф (Efrine)
     S:gt.multitileentity.7554.name=Заряжающий шкаф (Lumium)
+    S:gt.multitileentity.7555.name=Заряжающий шкаф (Рабочий сплав)
     S:gt.multitileentity.7800.name=Деревянная книжная полка
     S:gt.multitileentity.7801.name=Деревянная книжная полка
     S:gt.multitileentity.7802.name=Деревянная книжная полка
@@ -3531,7 +3569,7 @@
     S:gt.multitileentity.8034.name=Воронка (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.8035.name=Воронка (Draconium)
     S:gt.multitileentity.8036.name=Воронка (Awakened Draconium)
-    S:gt.multitileentity.8037.name=Воронка ('Осмий')
+    S:gt.multitileentity.8037.name=Воронка (Константан)
     S:gt.multitileentity.8038.name=Воронка (Ардит)
     S:gt.multitileentity.8039.name=Воронка (Manyullyn)
     S:gt.multitileentity.8040.name=Воронка (ManaСталь)
@@ -3549,6 +3587,7 @@
     S:gt.multitileentity.8052.name=Воронка (Вольфрамовый сплав)
     S:gt.multitileentity.8053.name=Воронка (Efrine)
     S:gt.multitileentity.8054.name=Воронка (Lumium)
+    S:gt.multitileentity.8055.name=Воронка (Рабочий сплав)
     S:gt.multitileentity.8200.name=Воронка с очередностью (Свинец)
     S:gt.multitileentity.8201.name=Воронка с очередностью (Алюминий)
     S:gt.multitileentity.8202.name=Воронка с очередностью (Золото)
@@ -3586,7 +3625,7 @@
     S:gt.multitileentity.8234.name=Воронка с очередностью (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.8235.name=Воронка с очередностью (Draconium)
     S:gt.multitileentity.8236.name=Воронка с очередностью (Awakened Draconium)
-    S:gt.multitileentity.8237.name=Воронка с очередностью ('Осмий')
+    S:gt.multitileentity.8237.name=Воронка с очередностью (Константан)
     S:gt.multitileentity.8238.name=Воронка с очередностью (Ардит)
     S:gt.multitileentity.8239.name=Воронка с очередностью (Manyullyn)
     S:gt.multitileentity.8240.name=Воронка с очередностью (ManaСталь)
@@ -3604,6 +3643,7 @@
     S:gt.multitileentity.8252.name=Воронка с очередностью (Вольфрамовый сплав)
     S:gt.multitileentity.8253.name=Воронка с очередностью (Efrine)
     S:gt.multitileentity.8254.name=Воронка с очередностью (Lumium)
+    S:gt.multitileentity.8255.name=Воронка с очередностью (Рабочий сплав)
     S:gt.multitileentity.8400.name=Леса (Свинец)
     S:gt.multitileentity.8401.name=Леса (Алюминий)
     S:gt.multitileentity.8402.name=Леса (Золото)
@@ -3641,7 +3681,7 @@
     S:gt.multitileentity.8434.name=Леса (Bedrock-HSLA-Alloy)
     S:gt.multitileentity.8435.name=Леса (Draconium)
     S:gt.multitileentity.8436.name=Леса (Awakened Draconium)
-    S:gt.multitileentity.8437.name=Леса ('Осмий')
+    S:gt.multitileentity.8437.name=Леса (Константан)
     S:gt.multitileentity.8438.name=Леса (Ardite)
     S:gt.multitileentity.8439.name=Леса (Manyullyn)
     S:gt.multitileentity.8440.name=Леса (Manasteel)
@@ -3659,6 +3699,7 @@
     S:gt.multitileentity.8452.name=Леса (Вольфрамовый сплав)
     S:gt.multitileentity.8453.name=Леса (Efrine)
     S:gt.multitileentity.8454.name=Леса (Lumium)
+    S:gt.multitileentity.8455.name=Леса (Рабочий сплав)
     S:gt.multitileentity.9.name=Сундук (Бронза)
     S:gt.multitileentity.9000.name=Камера сгорания с псевдоожиженным слоем (Свинец)
     S:gt.multitileentity.9001.name=Камера сгорания с псевдоожиженным слоем (Висмут)
@@ -3736,8 +3777,12 @@
     S:gt.multitileentity.9350.name=Истощенный топливный стержень Кобальт-60
     S:gt.multitileentity.9360.name=Истощенный топливный стержень Заряженный наквадах
     S:gt.multitileentity.9361.name=Истощенный топливный стержень Наквадрия
-    S:gt.multitileentity.9410.name=Breeder стержень Торий-232
-    S:gt.multitileentity.9420.name=Breeder стержень Уран-238
+    S:gt.multitileentity.9410.name=Селекционный стержень (Торий-232)
+    S:gt.multitileentity.9411.name=Обогащенный стержень (Уран-233)
+    S:gt.multitileentity.9420.name=Селекционный стержень (Уран-238)
+    S:gt.multitileentity.9421.name=Обогащенный стержень (Плутоний-239)
+    S:gt.multitileentity.9430.name=Селекционный стержень (Литий)
+    S:gt.multitileentity.9431.name=Обогащенный стержень (Тритий)
     S:gt.multitileentity.data.switch.tooltip.1=Используйте рядом с механизмами, которые требуют USB-накопители для выбора рецептов
     S:gt.multitileentity.data.switch.tooltip.2=Add USB кабель to Slot where USB Stick in the Recipe would go
     S:gt.multitileentity.data.switch.tooltip.3=При нажатии на USB-накопитель данные будут записаны в выбранный слот.

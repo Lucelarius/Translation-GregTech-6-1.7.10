@@ -29,11 +29,14 @@
     S:gt.material.AluminumBrass=Латунь-алюминий
     S:gt.material.Alumite=Алюмит
     S:gt.material.Alunite=Алунит
+    S:gt.material.Am241=Амерций 241
+    S:gt.material.Am242=Амерций 242
     S:gt.material.Amazonite=Амазонит
     S:gt.material.Amber=Янтарь
     S:gt.material.Ambrosium=Амброзиум
     S:gt.material.Americium=Америций
     S:gt.material.Americium241=Америций-241
+    S:gt.material.Americium242=Америций-242
     S:gt.material.Amethyst=Аметист
     S:gt.material.AmethystEnder=Аметист Эндера
     S:gt.material.Ammonia=Аммиак
@@ -490,7 +493,9 @@
     S:gt.material.AnyAmethyst=Аметист
     S:gt.material.AnyAshes=Пепел
     S:gt.material.AnyAventurine=Авантюрин
+    S:gt.material.AnyBlackSteel=Черная сталь
     S:gt.material.AnyBlaze=Огненный порошок
+    S:gt.material.AnyBlueSteel=Синяя сталь
     S:gt.material.AnyBronze=Любая бронза
     S:gt.material.AnyCalcite=Кальцит
     S:gt.material.AnyCarbon=Углерод
@@ -513,8 +518,11 @@
     S:gt.material.AnyMagicalWood=Магическое дерево
     S:gt.material.AnyMetal=Любой метал
     S:gt.material.AnyNormalWood=Обычное дерево
+    S:gt.material.AnyPhosphorus=Фосфор
     S:gt.material.AnyPrismarine=Призмарин
+    S:gt.material.AnyRedSteel=Красная сталь
     S:gt.material.AnySalt=Соль
+    S:gt.material.AnySand=Песок
     S:gt.material.AnySapphire=Сапфир
     S:gt.material.AnySilicon=Кремний
     S:gt.material.AnySiliconDioxide=Диоксид кремния
@@ -553,8 +561,11 @@
     S:gt.material.Aspen=Осина
     S:gt.material.Asphalt=Асфальт
     S:gt.material.Astatine=Астат
+    S:gt.material.Astatine209=Астат-209
     S:gt.material.AstralSilver=Астральное серебро
+    S:gt.material.At209=Астат-209
     S:gt.material.Atlarus=Атларис
+    S:gt.material.Au198=Золото-198
     S:gt.material.Australium=Австралий
     S:gt.material.Autumnwood=Осеннее дерево
     S:gt.material.Aventurine=Авантюрин
@@ -583,7 +594,7 @@
     S:gt.material.BeesWax=Пчелиный воск
     S:gt.material.Beeswax=Пчелиный воск
     S:gt.material.Beewax=Пчелиный воск
-    S:gt.material.Bentonite=Бентонит
+    S:gt.material.Bentonite=Бентонитовая глина
     S:gt.material.Berkelium=Берклий
     S:gt.material.Beryllium=Бериллий
     S:gt.material.Beryllium7=Бериллий-7
@@ -718,7 +729,9 @@
     S:gt.material.BlueAventurine=Синий авантюрин
     S:gt.material.BlueFluorite=Синий флюорит
     S:gt.material.BlueJasper=Синяя яшма
+    S:gt.material.BluePhosphorus=Синий фосфор
     S:gt.material.BlueMahoe=Синий гибискус
+    S:gt.material.BlueSpruce=Голубая ель
     S:gt.material.BlueSapphire=Синий сапфир
     S:gt.material.BlueSteel=Синяя сталь
     S:gt.material.BlueTigerEye=Синий тигриный глаз
@@ -726,6 +739,7 @@
     S:gt.material.BlueVitriol=Синий купарос
     S:gt.material.Blueschist=Синий сланец
     S:gt.material.Bluestone=Синий камень
+    S:gt.material.BogIron=Болотная руда
     S:gt.material.Blutonium=Блутоний
     S:gt.material.Bohrium=Борий
     S:gt.material.Bone=Кость
@@ -738,6 +752,7 @@
     S:gt.material.Brazilwood=Цезальпиния ежовая
     S:gt.material.Brick=Кирпич
     S:gt.material.BrickNether=Адский кирпич
+    S:gt.material.Brine=Рапа
     S:gt.material.Bromargyrite=Бромаргирит
     S:gt.material.Bromine=Бром
     S:gt.material.Bronze=Бронза
@@ -768,7 +783,10 @@
     S:gt.material.Carmot=Кармот
     S:gt.material.Cassiterite=Касситерит
     S:gt.material.CassiteriteSand=Касситеритовый песок
+    S:gt.material.CastIron=Чугун
     S:gt.material.CatsEye=Кошачий глаз
+    S:gt.material.Cavenium=Кавений
+    S:gt.material.CaveniumRefined=Переработанный кавений
     S:gt.material.CdInAgAlloy=Cd-In-Ag-Сплав
     S:gt.material.Cedar=Кедр
     S:gt.material.Celenegil=Целенегил
@@ -803,9 +821,12 @@
     S:gt.material.Citrine=Цитрин
     S:gt.material.Citruswood=Цитрусовое дерево
     S:gt.material.Clay=Глина
+    S:gt.material.ClayBrick=Глиняный кирпич
     S:gt.material.ClayBrown=Коричневая глина
+    S:gt.material.ClayCompound=Глиняная смесь
     S:gt.material.ClayRed=Красная глина
     S:gt.material.Cluster=Кластер
+    S:gt.material.Co60=Кобальт-60
     S:gt.material.Coal=Уголь
     S:gt.material.CoalCoke=Коксовый уголь
     S:gt.material.Cobalt=Кобальт
@@ -821,6 +842,9 @@
     S:gt.material.Coffee=Кофе
     S:gt.material.CoffeeDust=Кофейный порошок
     S:gt.material.Coke=Кокс
+    S:gt.material.Coltan=Колумбит-танталит
+    S:gt.material.Columbite=Колумбит
+    S:gt.material.Columbium=Колумбий
     S:gt.material.Concrete=Бетон
     S:gt.material.ConductiveIron=Проводящее железо
     S:gt.material.Constantan=Константан
@@ -834,16 +858,20 @@
     S:gt.material.Corn=Кукуруза
     S:gt.material.CosmicNeutronium=Космический нейтроний
     S:gt.material.Craponite=Крапонит
+    S:gt.material.Cream=Крем
     S:gt.material.Creosote=Креозотовое масло
     S:gt.material.CreosoteOil=Креозотовое масло
     S:gt.material.CrimsonMiddle=Средний малиновый
     S:gt.material.Crimsonwood=Малиновое дерево
     S:gt.material.CrudeOil=Сырая нефть
+    S:gt.material.CrudeSteel=Сырая сталь
     S:gt.material.Cryolite=Криолит
     S:gt.material.Cryotheum=Криотеум
     S:gt.material.Crystal=Кристалл
     S:gt.material.CrystalFlux=Флакс кристалл
     S:gt.material.CrystalMatrix=Кристальная матрица
+    S:gt.material.CrystallineAlloy=Кристаллический сплав
+    S:gt.material.CrystallinePinkSlime=Кристаллическая розовая слизь
     S:gt.material.Cupronickel=Медно-никелевый сплав
     S:gt.material.Curium=Кюрий
     S:gt.material.Curry=Карри
@@ -870,6 +898,7 @@
     S:gt.material.Datolite=Датолит
     S:gt.material.Deadrock=Мертвый камень
     S:gt.material.DeepIron=Глубинное железо
+    S:gt.material.Deepslate=Глубинный сланец
     S:gt.material.Demonite=Демонит
     S:gt.material.Desh=Дешь
     S:gt.material.Desichalkos=Дезихалький
@@ -921,6 +950,7 @@
     S:gt.material.ElectrotineAlloy=Электротиновый сплав
     S:gt.material.Electrum=Электрум
     S:gt.material.ElectrumFlux=Флакс-электрум
+    S:gt.material.Elementium=Элементий
     S:gt.material.Elite=Элита
     S:gt.material.Elm=Вяз
     S:gt.material.ElnTungsten=Эль-вольфрам
@@ -931,7 +961,9 @@
     S:gt.material.Emeradic=Изумрудник
     S:gt.material.Emerald=Изумруд
     S:gt.material.Emery=Эмери
-    S:gt.material.Empty=Путо
+    S:gt.material.Empty=Пусто
+    S:gt.material.EndSand=Песок Края
+    S:gt.material.EndSteel=Сталь Края
     S:gt.material.Ender=Эндер
     S:gt.material.EnderEye=Око Эндера
     S:gt.material.EnderPearl=Жемчуг Эндера
@@ -940,6 +972,7 @@
     S:gt.material.Endium=Эндий
     S:gt.material.Endstone=Камень Края
     S:gt.material.EnergeticAlloy=Энергетический сплав
+    S:gt.material.EnergeticSilver=Энергетическое серебро
     S:gt.material.EnergiumCyan=Бирюзовый энергий
     S:gt.material.EnergiumRed=Красный энергий
     S:gt.material.Energized=Под напряжением
@@ -962,9 +995,11 @@
     S:gt.material.Ferberite=Ферберит
     S:gt.material.Fermium=Фермий
     S:gt.material.FerricChloride=Трихлорид железа
+    S:gt.material.FerricOxyhydroxide=Оксигидроксид железа
     S:gt.material.Ferrite=Феррит
     S:gt.material.FerrousChloride=Хлористое железо
     S:gt.material.Ferrovanadium=Феррованадий
+    S:gt.material.Fiery=Огненный
     S:gt.material.FierySteel=Огненная сталь
     S:gt.material.Figwood=Инжирное дерево
     S:gt.material.Fir=Пихта
@@ -1031,7 +1066,9 @@
     S:gt.material.Glycerol=Глицерин
     S:gt.material.Glyceryl=Глицерин
     S:gt.material.Gneiss=Гнейс
+    S:gt.material.Gol198=Золото-198
     S:gt.material.Gold=Золото
+    S:gt.material.Gold198=Золото-198
     S:gt.material.GoldInductive=Индуктивный сплав
     S:gt.material.Goldwood=Золотое дерево
     S:gt.material.Good=Хорошо
@@ -1043,12 +1080,12 @@
     S:gt.material.GraniticMineralSand=Гранитный минеральный песок
     S:gt.material.Graphene=Графит
     S:gt.material.Graphite=Графит
-    S:gt.material.Gravel=Гравий
     S:gt.material.GraveyardDirt=Кладбищенская грязь
     S:gt.material.Gravitite=Гравитит
     S:gt.material.Gravitonium=Гравитониум
     S:gt.material.Gray=Серый
     S:gt.material.GrayVitriol=Серый купарос
+    S:gt.material.Grayschist=Серый сланец
     S:gt.material.Greatwood=Отличное дерево
     S:gt.material.Green=Зеленый
     S:gt.material.GreenAventurine=Зеленый авантюрин
@@ -1067,6 +1104,7 @@
     S:gt.material.Gunpowder=Порох
     S:gt.material.Gypsum=Гипс
     S:gt.material.Gyubnera=Гюбнер
+    S:gt.material.HOPGraphite=ВОПГрафит
     S:gt.material.HSLA=HSLA
     S:gt.material.HSLASpringSteel=Пружинная сталь
     S:gt.material.HSLASteel=HSLA-сталь
@@ -1093,6 +1131,7 @@
     S:gt.material.HempOil=Конопляное масло
     S:gt.material.Hepatizon=Гепатизон
     S:gt.material.HexafluorosilicicAcid=Кремнефтористоводородная кислота
+    S:gt.material.Hexcite=Гексит
     S:gt.material.Hexorium=Гексорий
     S:gt.material.HexoriumBlack=Черный гексорий
     S:gt.material.HexoriumBlue=Синий гексорий
@@ -1125,6 +1164,7 @@
     S:gt.material.Infernal=Дьявольский
     S:gt.material.Infinite=Бесконечный
     S:gt.material.Infinity=Бесконечный
+    S:gt.material.Infitite=Бесконечно
     S:gt.material.Infuscolium=Инфузкол
     S:gt.material.InfusedAir=Воздушный наполнитель
     S:gt.material.InfusedBalance=Сбалансированный наполнитель
@@ -1155,6 +1195,7 @@
     S:gt.material.IronOxide=Окид железа
     S:gt.material.IronSharp=Железные отруби
     S:gt.material.IronWood=Железное дерево
+    S:gt.material.Ironwood=Железное дерево
     S:gt.material.IrridantReinforced=IrridantReinforced
     S:gt.material.IrridantUranium=Irridant Uranium
     S:gt.material.Itarius=Итариус
@@ -1168,7 +1209,7 @@
     S:gt.material.Kalendrite=Календрит
     S:gt.material.Kalium=Калий
     S:gt.material.Kanthal=Кантал
-    S:gt.material.Kaolinite=Каолинит
+    S:gt.material.Kaolinite=Каолинитовая глина
     S:gt.material.Kapok=Хлопковое дерево
     S:gt.material.Kerosine=Керосин
     S:gt.material.Kesterite=Кестерит
@@ -1240,6 +1281,7 @@
     S:gt.material.MagnesiumChloride=Хлорид магния
     S:gt.material.Magnetite=Магнетит
     S:gt.material.MagnetizedTungsten=Намагниченный вольфрам
+    S:gt.material.Magnite=Магнит
     S:gt.material.Mahoe=Гибискус
     S:gt.material.Mahogany=Махагони
     S:gt.material.Malachite=Малахит
@@ -1265,10 +1307,14 @@
     S:gt.material.MeatRaw=Сырое мясо
     S:gt.material.MeatRotten=Испорченное мясо
     S:gt.material.Meitnerium=Мейтнерий
+    S:gt.material.MelodicAlloy=Мелодичный сплав
     S:gt.material.Mendelevium=Менделевий
     S:gt.material.Mercassium=Меркалий
     S:gt.material.Mercury=Ртуть
+    S:gt.material.MeteoricBlackSteel=Метиоритная черная сталь
+    S:gt.material.MeteoricBlueSteel=Метиоритная синяя сталь
     S:gt.material.MeteoricIron=Метиоритное железо
+    S:gt.material.MeteoricRedSteel=Метиоритная красная сталь
     S:gt.material.MeteoricSteel=Метиоритная сталь
     S:gt.material.Meteorite=Метиорит
     S:gt.material.Methane=Метан
@@ -1281,6 +1327,7 @@
     S:gt.material.Milk=Молоко
     S:gt.material.MilkyQuartz=Молочный кварц
     S:gt.material.Mimichite=Мимихит
+    S:gt.material.Mingrade=Красная медь
     S:gt.material.Mint=Мята
     S:gt.material.Mirabilite=Глауберова соль
     S:gt.material.Mithril=Мифрил
@@ -1307,6 +1354,7 @@
     S:gt.material.NeodymiumMagnetic=Намагниченый неодим
     S:gt.material.Neon=Неон
     S:gt.material.Neptunium=Нептуний
+    S:gt.material.Neptunium237=Нептуний 237
     S:gt.material.Nether=Ад
     S:gt.material.NetherBrick=Адские кирпичи
     S:gt.material.NetherQuartz=Адский кварц
@@ -1325,6 +1373,7 @@
     S:gt.material.Nikolite=Николит
     S:gt.material.Niobium=Ниобий
     S:gt.material.NiobiumNitride=Нитрид ниобия
+    S:gt.material.NiobiumPentoxide=Пятиокись ниобия
     S:gt.material.NiobiumTitanium=Ниобий-титан
     S:gt.material.Niter=Нитр
     S:gt.material.Nitrate=Нитрат
@@ -1337,6 +1386,7 @@
     S:gt.material.NitrogenMonoxide=Монооксид азота
     S:gt.material.Nobelium=Нобелий
     S:gt.material.Nougat=Нуга
+    S:gt.material.Np237=Нептуний-237
     S:gt.material.NutOil=Ореховое масло
     S:gt.material.Nutmeg=Мускатный орех
     S:gt.material.Oak=Дуб
@@ -1351,6 +1401,8 @@
     S:gt.material.Oganesson=Оганесон
     S:gt.material.Ogrewood=Огровое дерево
     S:gt.material.Oil=Нефть
+    S:gt.material.OilSand=Битуминозный песок
+    S:gt.material.OilShale=Битуминозный сланец
     S:gt.material.Oilsands=Битуминозный песок
     S:gt.material.Oilshale=Битуминозный сланец
     S:gt.material.OliveOil=Оливковое масло
@@ -1367,7 +1419,7 @@
     S:gt.material.Orichalcum=Орихалк
     S:gt.material.Oriharukon=Орихарукон
     S:gt.material.Osmiridium=Осмий-иридий
-    S:gt.material.Osmium='Осмий'
+    S:gt.material.Osmium=Осмий
     S:gt.material.OsmiumElemental=Осмий
     S:gt.material.OsmiumTetroxide=Тетраоксид осмия
     S:gt.material.Osmonium=Осмониум
@@ -1380,6 +1432,7 @@
     S:gt.material.Palis=Палис
     S:gt.material.Palladium=Палладий
     S:gt.material.Palm=Пальма
+    S:gt.material.Palygorskite=Палыгорскитовая глина
     S:gt.material.Papayawood=Дерево папайи
     S:gt.material.Paper=Бумага
     S:gt.material.ParaffinWax=Парафиновый воск
@@ -1419,6 +1472,7 @@
     S:gt.material.PinkFluorite=Розовый флюорит
     S:gt.material.PinkIvory=Розовая кость
     S:gt.material.PinkVitriol=Розовый купарос
+    S:gt.material.Pinkschist=Розовый сланец
     S:gt.material.Pistachio=Фисташка
     S:gt.material.Pitchblende=Настуран
     S:gt.material.Pitstone=Питстон
@@ -1448,6 +1502,8 @@
     S:gt.material.PotassiumCarbonate=Карбонат калия
     S:gt.material.PotassiumFeldspar=Калиевый полевой шпат
     S:gt.material.PotassiumHydroxide=Гидроксид калия
+    S:gt.material.PotassiumFluoride=Фторид калия
+    S:gt.material.PotassiumHeptafluorotantalate=Гептафтортанталат калия
     S:gt.material.PotassiumNitrate=Нитрат калия
     S:gt.material.PotassiumPersulfate=Пероксодисульфат калия
     S:gt.material.PotassiumPersulphate=Пероксодисульфат калия
@@ -1472,6 +1528,10 @@
     S:gt.material.Propylene=Пропилен
     S:gt.material.Protactinium=Протактиний
     S:gt.material.Proton=Протон
+    S:gt.material.Pu238=Плутоний-238
+    S:gt.material.Pu239=Плутоний-239
+    S:gt.material.Pu240=Плутоний-240
+    S:gt.material.Pu241=Плутоний-241
     S:gt.material.PulsatingIron=Пульсирующее железо
     S:gt.material.Pumice=Пемза
     S:gt.material.Purple=Фолетовый
@@ -1492,6 +1552,7 @@
     S:gt.material.Quicklime=Оксид кальция
     S:gt.material.Quicksilver=Ртуть
     S:gt.material.Radium=Радий
+    S:gt.material.Radium226=Радий-226
     S:gt.material.Radon=Радон
     S:gt.material.RainbowEucalyptus=Радужный эвкалипт
     S:gt.material.Rainbowood=Радужное дерево
@@ -1500,6 +1561,7 @@
     S:gt.material.RareEarth=РЗЭ
     S:gt.material.Raspite=Распит
     S:gt.material.RawTerrasteelAlloy=Заготовка сплава террастали
+    S:gt.material.Realgar=Реальгар
     S:gt.material.Red=Красный
     S:gt.material.RedAlloy=Красный сплав
     S:gt.material.RedAventurine=Красный авантюрин
@@ -1507,8 +1569,10 @@
     S:gt.material.RedJasper=Красная яшма
     S:gt.material.RedMatter=Красная материя
     S:gt.material.RedMeteor=Красный метеор
+    S:gt.material.RedPhosphorus=Красный фосфор
     S:gt.material.RedQuartz=Красный кварц
     S:gt.material.RedRock=Красный камень
+    S:gt.material.RedSand=Красный песок
     S:gt.material.RedSteel=Красная сталь
     S:gt.material.RedTigerEye=Красный тигриный глаз
     S:gt.material.RedVitriol=Красный купарос
@@ -1517,9 +1581,8 @@
     S:gt.material.RedstoneAlloy=Сплав красной пыли
     S:gt.material.Redstonia=Редстоний
     S:gt.material.Redwood=Крвсное дерево
-    S:gt.material.RefinedGlowstone=Переработанная светопыль
+    S:gt.material.RefinedCavenium=Переработанный кавений
     S:gt.material.RefinedIron=Переработанное железо
-    S:gt.material.RefinedObsidian=Переработанный обсидиан
     S:gt.material.RefractoryWax=Огнеупорный воск
     S:gt.material.Refractorywax=Огнеупорный воск
     S:gt.material.Reiium=Реиит
@@ -1602,6 +1665,7 @@
     S:gt.material.SodiumBisulfate=Гидросульфат натрия
     S:gt.material.SodiumBisulphate=Гидросульфат натрия
     S:gt.material.SodiumCarbonate=Карбонат натрия
+    S:gt.material.SodiumFluoride=Фторид натрия
     S:gt.material.SodiumHydrogenSulfate=Гидросульфат натрия
     S:gt.material.SodiumHydrogenSulphate=Гидросульфат натрия
     S:gt.material.SodiumHydroxide=Гидроксид натрия
@@ -1643,6 +1707,7 @@
     S:gt.material.SteelGalvanized=Оцинкованная сталь
     S:gt.material.SteelMagnetic=Намагниченная сталь
     S:gt.material.Steeleaf=Сталелист
+    S:gt.material.StellarAlloy=Звездный сплав
     S:gt.material.SterlingSilver=Стерлинг
     S:gt.material.Stibnite=Антимонит
     S:gt.material.Stolzite=Штольцит
@@ -1674,8 +1739,10 @@
     S:gt.material.Talc=Тальк
     S:gt.material.Tallow=Магический жир
     S:gt.material.Tantalite=Танталит
+    S:gt.material.Tantalium=Тантал
     S:gt.material.Tantalum=Тантал
     S:gt.material.TantalumHafniumCarbide=Карбид тантала-гафния
+    S:gt.material.TantalumPentoxide=Пятиокись тантала
     S:gt.material.Tanzanite=Танзанит
     S:gt.material.Tapazite=Тапазит
     S:gt.material.Tar=Дёготь
@@ -1694,6 +1761,7 @@
     S:gt.material.TeslatineAlloy=Теслатитовый сплав
     S:gt.material.Teslatite=Теслатит
     S:gt.material.Tetrahedrite=Тетраэдрит
+    S:gt.material.Th232=Торий-232
     S:gt.material.Thallium=Таллий
     S:gt.material.Thaumium=Таум
     S:gt.material.Thorium=Торий
@@ -1841,6 +1909,9 @@
     S:gt.material.Tungstensteel=Вольфрамовая сталь
     S:gt.material.TungsticAcid=Вольфрамовая кислота
     S:gt.material.Turquoise=Бирюзовый
+    S:gt.material.U233=Уран-233
+    S:gt.material.U235=Уран-235
+    S:gt.material.U238=Уран-238
     S:gt.material.UUAmplifier=UU-Усилитель
     S:gt.material.UUMatter=UU-Материя
     S:gt.material.Ultimate=Ультимет
@@ -1959,12 +2030,14 @@
     S:gt.material.Vibranium=Вибраниум
     S:gt.material.VibraniumSilver=Вибраний-серебро
     S:gt.material.VibraniumSteel=Вибрамантиевая сталь
+    S:gt.material.Vibrant=Вибрамант
     S:gt.material.VibrantAlloy=Вибрамантиевый сплав
     S:gt.material.Vile=Ужасный
     S:gt.material.Vinteum=Винтеум
     S:gt.material.VinteumPurified=Переработанный винтеум
     S:gt.material.Vis=Вис
     S:gt.material.VitriolOfClay=Купорос из глины
+    S:gt.material.VividAlloy=Яркий сплав
     S:gt.material.Void=Пустота
     S:gt.material.VoidCrystal=Пустотный кристалл
     S:gt.material.VoidMetal=Пустотный метал
@@ -1990,11 +2063,13 @@
     S:gt.material.Weedwood=Долговязое дерево
     S:gt.material.Weidanium=Вейданий
     S:gt.material.Wenge=Венге
+    S:gt.material.WhaleOil=Китовый жир
     S:gt.material.Wheat=Пшеница
     S:gt.material.White=Белый
     S:gt.material.WhiteCedar=Белый сидр
     S:gt.material.WhiteElm=Вяз гладкий
     S:gt.material.WhiteFluorite=Белый флюорит
+    S:gt.material.WhitePhosphorus=Белый фосфор
     S:gt.material.WhiteVitriol=Белый купорос
     S:gt.material.Whitebeam=Рябина круглолистная
     S:gt.material.Willow=Ива
@@ -2018,9 +2093,11 @@
     S:gt.material.WoodRotten=Гнилое дерево
     S:gt.material.WoodRubber=Каучуковое дерево
     S:gt.material.WoodScorched=Выжженное дерево
-    S:gt.material.WoodSealed=Обработанное дерево
+    S:gt.material.WoodSealed=Герметичное дерево
     S:gt.material.WoodTainted=Загнивающее дерево
+    S:gt.material.WoodTreated=Обработанное дерево
     S:gt.material.WoodVarnished=Лакированное дерево
+    S:gt.material.WorkersAlloy=Рабочий сплав
     S:gt.material.WroughtIron=Кованое железо
     S:gt.material.WrougtIron=Кованое железо
     S:gt.material.Wulfenite=Вульфенит
