@@ -1,3 +1,3 @@
 @echo off
-(for /f "delims=" %%i in (gem.txt) do echo."%%i")>gem2.txt
+(for /f "delims=" %%i in (fmolten.txt) do echo."%%i")>fmolten2.txt
 exit /b
