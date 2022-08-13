@@ -77,7 +77,7 @@
     S:gt.material.AntiBiennbium=Анти-Биеннбиум
     S:gt.material.AntiBiennennium=Анти-Биенненниум
     S:gt.material.AntiBiennhexium=Анти-Биеннексиум
-    S:gt.material.AntiBiennnilium=Анти-Биенннилий
+    S:gt.material.AntiBiennilium=Анти-Биеннилий
     S:gt.material.AntiBiennoctium=Анти-Биенноктиум
     S:gt.material.AntiBiennpentium=Анти-Биеннпентиум
     S:gt.material.AntiBiennquadium=Анти-Биеннквадий
@@ -301,7 +301,7 @@
     S:gt.material.AntiTriennbium=Анти-Триеннбиум
     S:gt.material.AntiTriennennium=Анти-Триеннениум
     S:gt.material.AntiTriennhexium=Анти-Триеннексий
-    S:gt.material.AntiTriennnilium=Анти-Триенннилий
+    S:gt.material.AntiTriennilium=Анти-Триеннилий
     S:gt.material.AntiTriennoctium=Анти-Триенноктиум
     S:gt.material.AntiTriennpentium=Анти-Триеннпентиум
     S:gt.material.AntiTriennquadium=Анти-Триеннквадий
@@ -378,7 +378,7 @@
     S:gt.material.AntiTritriquadium=Анти-Тритриквадий
     S:gt.material.AntiTritriseptium=Анти-Тритрисептиум
     S:gt.material.AntiTritritrium=Анти-Тритритриум
-    S:gt.material.AntiTritriunium.name=Анти-Тритриуниум
+    S:gt.material.AntiTritriunium=Анти-Тритриуниум
     S:gt.material.AntiTriunbium=Анти-Триунбиум
     S:gt.material.AntiTriunennium=Анти-Триуненниум
     S:gt.material.AntiTriunhexium=Анти-Триунгексий
@@ -403,7 +403,7 @@
     S:gt.material.AntiUnennbium=Анти-Уненнбиум
     S:gt.material.AntiUnennennium=Анти-Уненненниум
     S:gt.material.AntiUnennhexium=Анти-Уненгексий
-    S:gt.material.AntiUnennnilium=Анти-Уненнилий
+    S:gt.material.AntiUnennilium=Анти-Уненнилий
     S:gt.material.AntiUnennoctium=Анти-Уненноктиум
     S:gt.material.AntiUnennpentium=Анти-Унунпентиум
     S:gt.material.AntiUnennquadium=Анти-Уненнквадий
@@ -729,18 +729,18 @@
     S:gt.material.BlueAventurine=Синий авантюрин
     S:gt.material.BlueFluorite=Синий флюорит
     S:gt.material.BlueJasper=Синяя яшма
-    S:gt.material.BluePhosphorus=Синий фосфор
     S:gt.material.BlueMahoe=Синий гибискус
-    S:gt.material.BlueSpruce=Голубая ель
+    S:gt.material.BluePhosphorus=Синий фосфор
     S:gt.material.BlueSapphire=Синий сапфир
+    S:gt.material.BlueSpruce=Голубая ель
     S:gt.material.BlueSteel=Синяя сталь
     S:gt.material.BlueTigerEye=Синий тигриный глаз
     S:gt.material.BlueTopaz=Синий топаз
     S:gt.material.BlueVitriol=Синий купарос
     S:gt.material.Blueschist=Синий сланец
     S:gt.material.Bluestone=Синий камень
-    S:gt.material.BogIron=Болотная руда
     S:gt.material.Blutonium=Блутоний
+    S:gt.material.BogIron=Болотная руда
     S:gt.material.Bohrium=Борий
     S:gt.material.Bone=Кость
     S:gt.material.Borax=Боракс
