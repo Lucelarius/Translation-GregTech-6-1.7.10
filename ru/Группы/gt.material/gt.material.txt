@@ -29,8 +29,8 @@
     S:gt.material.AluminumBrass=Латунь-алюминий
     S:gt.material.Alumite=Алюмит
     S:gt.material.Alunite=Алунит
-    S:gt.material.Am241=Амерций 241
-    S:gt.material.Am242=Амерций 242
+    S:gt.material.Am241=Амерций-241
+    S:gt.material.Am242=Амерций-242
     S:gt.material.Amazonite=Амазонит
     S:gt.material.Amber=Янтарь
     S:gt.material.Ambrosium=Амброзиум
@@ -731,8 +731,8 @@
     S:gt.material.BlueJasper=Синяя яшма
     S:gt.material.BluePhosphorus=Синий фосфор
     S:gt.material.BlueMahoe=Синий гибискус
-    S:gt.material.BlueSpruce=Голубая ель
     S:gt.material.BlueSapphire=Синий сапфир
+    S:gt.material.BlueSpruce=Голубая ель
     S:gt.material.BlueSteel=Синяя сталь
     S:gt.material.BlueTigerEye=Синий тигриный глаз
     S:gt.material.BlueTopaz=Синий топаз
