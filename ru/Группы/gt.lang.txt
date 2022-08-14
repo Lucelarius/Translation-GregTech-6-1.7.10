@@ -1,8 +1,8 @@
     S:gt.lang.accepts.redstoneflux.lossless=Может принимать "Редстоун Сигнал" (RF) без потерь
     S:gt.lang.accepts.redstoneflux.lossy=Может принимать "Редстоун Сигнал" (RF) с потерей
     S:gt.lang.admin.only.creation=Только администраторы могут это создать. (или используйте мод "MineTweaker" для добавления рецепта)
-    S:gt.lang.ammo.enchants=Ammo Enchantments:
-    S:gt.lang.armor.enchants=Возможные чары брони:
+    S:gt.lang.ammo.enchants=Чары патронов:
+    S:gt.lang.armor.enchants=Чары брони:
     S:gt.lang.armor.enchants.too.many=Слишком много чар для брони в списке
     S:gt.lang.autocollect=Может автоматически собирать предметы при добыче
     S:gt.lang.axle.stats.power=Сила: 
@@ -30,7 +30,7 @@
     S:gt.lang.energy.capacity=Вместимость
     S:gt.lang.energy.contained=Хранится энергии
     S:gt.lang.energy.convert.from=Конвертирует
-    S:gt.lang.energy.convert.per=per
+    S:gt.lang.energy.convert.per=из
     S:gt.lang.energy.convert.to=в
     S:gt.lang.energy.convert.using=используя
     S:gt.lang.energy.input=Принимает энергию
