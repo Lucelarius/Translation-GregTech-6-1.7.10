@@ -1,0 +1,5 @@
+    S:tc.aspect.electrum=Electricity, Lightning
+    S:tc.aspect.magneto=Magnetism, Attraction
+    S:tc.aspect.nebrisum=Cheatiness, Raiding, Hoarding
+    S:tc.aspect.radio=Radiation
+    S:tc.aspect.strontio=Stupidness, Incompetence

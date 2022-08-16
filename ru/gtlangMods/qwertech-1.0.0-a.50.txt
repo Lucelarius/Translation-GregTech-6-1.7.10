@@ -1,0 +1,317 @@
+    S:fluid.blood=Blood
+    S:fluid.blood.name=Blood
+	
+    S:fluid.chemicalx=Chemical X
+    S:fluid.chemicalx.name=Chemical X
+    S:fluid.chemicaly=Chemical Y
+    S:fluid.chemicaly.name=Chemical Y
+	
+    S:fluid.dna=DNA
+    S:fluid.dna.name=DNA
+	
+    S:fluid.hotsalsa=Hot Salsa
+    S:fluid.hotsalsa.name=Hot Salsa
+	
+    S:fluid.mildsalsa=Mild Salsa
+    S:fluid.mildsalsa.name=Mild Salsa
+	
+    S:fluid.salsa=Medium Salsa
+    S:fluid.salsa.name=Medium Salsa
+	
+    S:fluid.sugarwater=Sugarwater
+    S:fluid.sugarwater.name=Sugarwater
+	
+    S:fluid.tomatosauce=Tomato Sauce
+    S:fluid.tomatosauce.name=Tomato Sauce
+	
+    S:gt.drink.hotsalsa=Vegan fire
+	
+    S:gt.drink.mildsalsa=AKA Chunky Ketchup
+	
+    S:gt.drink.salsa=With a little kick
+	
+    S:gt.drink.sugarwater=Sweet, yet unsatisfying
+	
+    S:gt.drink.tomatosauce=Spaghetti, spaghetti, all over the place
+	
+    S:gt.material.Any=Any
+	
+    S:gt.material.BlueCY11=Blue CY-11
+	
+    S:gt.material.ChemicalX=Chemical X
+    S:gt.material.ChemicalY=Chemical Y
+    S:gt.material.ChemicalY1=Chemical Y-1
+    S:gt.material.ChemicalY10=Chemical Y-10
+    S:gt.material.ChemicalY2=Chemical Y-2
+    S:gt.material.ChemicalY3=Chemical Y-3
+    S:gt.material.ChemicalY4=Chemical Y-4
+    S:gt.material.ChemicalY5=Chemical Y-5
+    S:gt.material.ChemicalY6=Chemical Y-6
+    S:gt.material.ChemicalY7=Chemical Y-7
+    S:gt.material.ChemicalY8=Chemical Y-8
+    S:gt.material.ChemicalY9=Chemical Y-9
+    S:gt.material.ChemicalZ=Chemical Z
+	
+    S:gt.material.Compost=Compost
+    S:gt.material.CompostRaw=Raw Compost
+	
+    S:gt.material.GreenCY11=Green CY-11
+	
+    S:gt.material.OrangeCY11=Orange CY-11
+	
+    S:gt.material.PinkCY11=Pink CY-11
+	
+    S:gt.material.PurpleCY11=Purple CY-11
+	
+    S:gt.material.RedCY11=Red CY-11
+	
+    S:gt.material.WhiteCY11=White CY-11
+	
+    S:gt.material.YellowCY11=Yellow CY-11
+	
+    S:itemGroup.link=Links
+	
+    S:itemGroup.qwertech.machines.-1=Natural
+    S:itemGroup.qwertech.machines.0=Crafting Tables
+	
+    S:itemGroup.shuriken=Shuriken
+	
+    S:itemGroup.toolHeadMace=Mace Heads
+    S:itemGroup.toolHeadMattock=Mattock Heads
+	
+    S:itemGroup.toolHeadRawMace=Raw Mace Heads
+    S:itemGroup.toolHeadRawMattock=Raw Mattock Heads
+	
+    S:oredict.arrowGtPlasticAny.name=Light Any Arrow
+	
+    S:oredict.arrowGtPlasticChemicalY10.name=Light Chemical Y-10 Arrow
+    S:oredict.arrowGtPlasticChemicalY2.name=Light Chemical Y-2 Arrow
+    S:oredict.arrowGtPlasticChemicalY4.name=Light Chemical Y-4 Arrow
+    S:oredict.arrowGtPlasticChemicalY5.name=Light Chemical Y-5 Arrow
+    S:oredict.arrowGtPlasticChemicalY6.name=Light Chemical Y-6 Arrow
+    S:oredict.arrowGtPlasticChemicalY7.name=Light Chemical Y-7 Arrow
+    S:oredict.arrowGtPlasticChemicalY8.name=Light Chemical Y-8 Arrow
+    S:oredict.arrowGtPlasticChemicalY9.name=Light Chemical Y-9 Arrow
+	
+    S:oredict.arrowGtWoodAny.name=Any Arrow
+	
+    S:oredict.arrowGtWoodChemicalY10.name=Chemical Y-10 Arrow
+    S:oredict.arrowGtWoodChemicalY2.name=Chemical Y-2 Arrow
+    S:oredict.arrowGtWoodChemicalY4.name=Chemical Y-4 Arrow
+    S:oredict.arrowGtWoodChemicalY5.name=Chemical Y-5 Arrow
+    S:oredict.arrowGtWoodChemicalY6.name=Chemical Y-6 Arrow
+    S:oredict.arrowGtWoodChemicalY7.name=Chemical Y-7 Arrow
+    S:oredict.arrowGtWoodChemicalY8.name=Chemical Y-8 Arrow
+    S:oredict.arrowGtWoodChemicalY9.name=Chemical Y-9 Arrow
+	
+    S:oredict.billetAny.name=Any Billet
+	
+    S:oredict.billetChemicalY1.name=Chemical Y-1 Billet
+    S:oredict.billetChemicalY10.name=Chemical Y-10 Billet
+    S:oredict.billetChemicalY2.name=Chemical Y-2 Billet
+    S:oredict.billetChemicalY3.name=Chemical Y-3 Billet
+    S:oredict.billetChemicalY4.name=Chemical Y-4 Billet
+    S:oredict.billetChemicalY5.name=Chemical Y-5 Billet
+    S:oredict.billetChemicalY6.name=Chemical Y-6 Billet
+    S:oredict.billetChemicalY7.name=Chemical Y-7 Billet
+    S:oredict.billetChemicalY8.name=Chemical Y-8 Billet
+    S:oredict.billetChemicalY9.name=Chemical Y-9 Billet
+    S:oredict.billetChemicalZ.name=Chemical Z Billet
+	
+    S:oredict.blockDustAny.name=Block of Any Dust
+	
+    S:oredict.blockGemAny.name=Block of Any
+	
+    S:oredict.blockGemBlueCY11.name=Block of Blue CY-11
+	
+    S:oredict.blockGemGreenCY11.name=Block of Green CY-11
+	
+    S:oredict.blockGemOrangeCY11.name=Block of Orange CY-11
+	
+    S:oredict.blockGemPinkCY11.name=Block of Pink CY-11
+	
+    S:oredict.blockGemPurpleCY11.name=Block of Purple CY-11
+	
+    S:oredict.blockGemRedCY11.name=Block of Red CY-11
+	
+    S:oredict.blockGemWhiteCY11.name=Block of White CY-11
+	
+    S:oredict.blockGemYellowCY11.name=Block of Yellow CY-11
+	
+    S:oredict.blockIngotAny.name=Block of Any Ingot
+	
+    S:oredict.blockIngotChemicalY1.name=Block of Chemical Y-1 Ingot
+    S:oredict.blockIngotChemicalY10.name=Block of Chemical Y-10 Ingot
+    S:oredict.blockIngotChemicalY2.name=Block of Chemical Y-2 Ingot
+    S:oredict.blockIngotChemicalY3.name=Block of Chemical Y-3 Ingot
+    S:oredict.blockIngotChemicalY4.name=Block of Chemical Y-4 Ingot
+    S:oredict.blockIngotChemicalY5.name=Block of Chemical Y-5 Ingot
+    S:oredict.blockIngotChemicalY6.name=Block of Chemical Y-6 Ingot
+    S:oredict.blockIngotChemicalY7.name=Block of Chemical Y-7 Ingot
+    S:oredict.blockIngotChemicalY8.name=Block of Chemical Y-8 Ingot
+    S:oredict.blockIngotChemicalY9.name=Block of Chemical Y-9 Ingot
+    S:oredict.blockIngotChemicalZ.name=Block of Chemical Z Ingot
+	
+    S:oredict.blockPlateAny.name=Block of Any Plate
+	
+    S:oredict.blockPlateChemicalY1.name=Block of Chemical Y-1 Plate
+    S:oredict.blockPlateChemicalY10.name=Block of Chemical Y-10 Plate
+    S:oredict.blockPlateChemicalY2.name=Block of Chemical Y-2 Plate
+    S:oredict.blockPlateChemicalY3.name=Block of Chemical Y-3 Plate
+    S:oredict.blockPlateChemicalY4.name=Block of Chemical Y-4 Plate
+    S:oredict.blockPlateChemicalY5.name=Block of Chemical Y-5 Plate
+    S:oredict.blockPlateChemicalY6.name=Block of Chemical Y-6 Plate
+    S:oredict.blockPlateChemicalY7.name=Block of Chemical Y-7 Plate
+    S:oredict.blockPlateChemicalY8.name=Block of Chemical Y-8 Plate
+    S:oredict.blockPlateChemicalY9.name=Block of Chemical Y-9 Plate
+	
+    S:oredict.blockPlateGemAny.name=Block of Crystalline Any Plate
+	
+    S:oredict.blockPlateGemBlueCY11.name=Block of Crystalline Blue CY-11 Plate
+	
+    S:oredict.blockPlateGemGreenCY11.name=Block of Crystalline Green CY-11 Plate
+	
+    S:oredict.blockPlateGemOrangeCY11.name=Block of Crystalline Orange CY-11 Plate
+	
+    S:oredict.blockPlateGemPinkCY11.name=Block of Crystalline Pink CY-11 Plate
+	
+    S:oredict.blockPlateGemPurpleCY11.name=Block of Crystalline Purple CY-11 Plate
+	
+    S:oredict.blockPlateGemRedCY11.name=Block of Crystalline Red CY-11 Plate
+	
+    S:oredict.blockPlateGemWhiteCY11.name=Block of Crystalline White CY-11 Plate
+	
+    S:oredict.blockPlateGemYellowCY11.name=Block of Crystalline Yellow CY-11 Plate
+	
+    S:oredict.blockRawAny.name=Block of Any Ore
+	
+    S:oredict.blockSolidAny.name=Block of solid Any
+	
+    S:oredict.blockSolidChemicalY1.name=Block of solid Chemical Y-1
+    S:oredict.blockSolidChemicalY10.name=Block of solid Chemical Y-10
+    S:oredict.blockSolidChemicalY2.name=Block of solid Chemical Y-2
+    S:oredict.blockSolidChemicalY3.name=Block of solid Chemical Y-3
+    S:oredict.blockSolidChemicalY4.name=Block of solid Chemical Y-4
+    S:oredict.blockSolidChemicalY5.name=Block of solid Chemical Y-5
+    S:oredict.blockSolidChemicalY6.name=Block of solid Chemical Y-6
+    S:oredict.blockSolidChemicalY7.name=Block of solid Chemical Y-7
+    S:oredict.blockSolidChemicalY8.name=Block of solid Chemical Y-8
+    S:oredict.blockSolidChemicalY9.name=Block of solid Chemical Y-9
+    S:oredict.blockSolidChemicalZ.name=Block of solid Chemical Z
+	
+    S:oredict.boltAny.name=Any Bolt
+	
+    S:oredict.boltBlueCY11.name=Blue CY-11 Bolt
+	
+    S:oredict.boltChemicalY1.name=Chemical Y-1 Bolt
+    S:oredict.boltChemicalY10.name=Chemical Y-10 Bolt
+    S:oredict.boltChemicalY2.name=Chemical Y-2 Bolt
+    S:oredict.boltChemicalY3.name=Chemical Y-3 Bolt
+    S:oredict.boltChemicalY4.name=Chemical Y-4 Bolt
+    S:oredict.boltChemicalY5.name=Chemical Y-5 Bolt
+    S:oredict.boltChemicalY6.name=Chemical Y-6 Bolt
+    S:oredict.boltChemicalY7.name=Chemical Y-7 Bolt
+    S:oredict.boltChemicalY8.name=Chemical Y-8 Bolt
+    S:oredict.boltChemicalY9.name=Chemical Y-9 Bolt
+	
+    S:oredict.boltGreenCY11.name=Green CY-11 Bolt
+	
+    S:oredict.boltOrangeCY11.name=Orange CY-11 Bolt
+	
+    S:oredict.boltPinkCY11.name=Pink CY-11 Bolt
+	
+    S:oredict.boltPurpleCY11.name=Purple CY-11 Bolt
+	
+    S:oredict.boltRedCY11.name=Red CY-11 Bolt
+	
+    S:oredict.boltWhiteCY11.name=White CY-11 Bolt
+	
+    S:oredict.boltYellowCY11.name=Yellow CY-11 Bolt
+	
+    S:oredict.bulletGtLargeAny.name=Large Any Bullet
+	
+    S:oredict.bulletGtLargeChemicalY10.name=Large Chemical Y-10 Bullet
+    S:oredict.bulletGtLargeChemicalY2.name=Large Chemical Y-2 Bullet
+    S:oredict.bulletGtLargeChemicalY4.name=Large Chemical Y-4 Bullet
+    S:oredict.bulletGtLargeChemicalY5.name=Large Chemical Y-5 Bullet
+    S:oredict.bulletGtLargeChemicalY6.name=Large Chemical Y-6 Bullet
+    S:oredict.bulletGtLargeChemicalY7.name=Large Chemical Y-7 Bullet
+    S:oredict.bulletGtLargeChemicalY8.name=Large Chemical Y-8 Bullet
+    S:oredict.bulletGtLargeChemicalY9.name=Large Chemical Y-9 Bullet
+	
+    S:oredict.bulletGtMediumAny.name=Medium Any Bullet
+	
+    S:oredict.bulletGtMediumChemicalY10.name=Medium Chemical Y-10 Bullet
+    S:oredict.bulletGtMediumChemicalY2.name=Medium Chemical Y-2 Bullet
+    S:oredict.bulletGtMediumChemicalY4.name=Medium Chemical Y-4 Bullet
+    S:oredict.bulletGtMediumChemicalY5.name=Medium Chemical Y-5 Bullet
+    S:oredict.bulletGtMediumChemicalY6.name=Medium Chemical Y-6 Bullet
+    S:oredict.bulletGtMediumChemicalY7.name=Medium Chemical Y-7 Bullet
+    S:oredict.bulletGtMediumChemicalY8.name=Medium Chemical Y-8 Bullet
+    S:oredict.bulletGtMediumChemicalY9.name=Medium Chemical Y-9 Bullet
+	
+    S:oredict.bulletGtSmallAny.name=Small Any Bullet
+	
+    S:oredict.bulletGtSmallChemicalY10.name=Small Chemical Y-10 Bullet
+    S:oredict.bulletGtSmallChemicalY2.name=Small Chemical Y-2 Bullet
+    S:oredict.bulletGtSmallChemicalY4.name=Small Chemical Y-4 Bullet
+    S:oredict.bulletGtSmallChemicalY5.name=Small Chemical Y-5 Bullet
+    S:oredict.bulletGtSmallChemicalY6.name=Small Chemical Y-6 Bullet
+    S:oredict.bulletGtSmallChemicalY7.name=Small Chemical Y-7 Bullet
+    S:oredict.bulletGtSmallChemicalY8.name=Small Chemical Y-8 Bullet
+    S:oredict.bulletGtSmallChemicalY9.name=Small Chemical Y-9 Bullet
+	
+    S:oredict.casingSmallAny.name=Any Item Casing
+	
+    S:oredict.casingSmallBlueCY11.name=Blue CY-11 Item Casing
+	
+    S:oredict.casingSmallChemicalY10.name=Chemical Y-10 Item Casing
+    S:oredict.casingSmallChemicalY2.name=Chemical Y-2 Item Casing
+    S:oredict.casingSmallChemicalY4.name=Chemical Y-4 Item Casing
+    S:oredict.casingSmallChemicalY5.name=Chemical Y-5 Item Casing
+    S:oredict.casingSmallChemicalY6.name=Chemical Y-6 Item Casing
+    S:oredict.casingSmallChemicalY7.name=Chemical Y-7 Item Casing
+    S:oredict.casingSmallChemicalY8.name=Chemical Y-8 Item Casing
+    S:oredict.casingSmallChemicalY9.name=Chemical Y-9 Item Casing
+	
+    S:oredict.casingSmallGreenCY11.name=Green CY-11 Item Casing
+	
+    S:oredict.casingSmallOrangeCY11.name=Orange CY-11 Item Casing
+	
+    S:oredict.casingSmallPinkCY11.name=Pink CY-11 Item Casing
+
+    S:oredict.casingSmallPurpleCY11.name=Purple CY-11 Item Casing
+
+    S:oredict.casingSmallRedCY11.name=Red CY-11 Item Casing
+
+    S:oredict.casingSmallWhiteCY11.name=White CY-11 Item Casing
+
+    S:oredict.casingSmallYellowCY11.name=Yellow CY-11 Item Casing
+
+    S:oredict.chainAny.name=Any Chains
+
+    S:oredict.chainBlueCY11.name=Blue CY-11 Chains
+
+    S:oredict.chainChemicalY10.name=Chemical Y-10 Chains
+    S:oredict.chainChemicalY2.name=Chemical Y-2 Chains
+    S:oredict.chainChemicalY4.name=Chemical Y-4 Chains
+    S:oredict.chainChemicalY5.name=Chemical Y-5 Chains
+    S:oredict.chainChemicalY6.name=Chemical Y-6 Chains
+    S:oredict.chainChemicalY7.name=Chemical Y-7 Chains
+    S:oredict.chainChemicalY8.name=Chemical Y-8 Chains
+    S:oredict.chainChemicalY9.name=Chemical Y-9 Chains
+
+    S:oredict.chainGreenCY11.name=Green CY-11 Chains
+
+    S:oredict.chainOrangeCY11.name=Orange CY-11 Chains
+
+    S:oredict.chainPinkCY11.name=Pink CY-11 Chains
+
+    S:oredict.chainPurpleCY11.name=Purple CY-11 Chains
+
+    S:oredict.chainRedCY11.name=Red CY-11 Chains
+
+    S:oredict.chainWhiteCY11.name=White CY-11 Chains
+
+    S:oredict.chainYellowCY11.name=Yellow CY-11 Chains
+
