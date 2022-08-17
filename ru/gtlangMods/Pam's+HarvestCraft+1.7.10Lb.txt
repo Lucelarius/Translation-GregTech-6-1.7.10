@@ -1,0 +1,5 @@
+    S:tc.aspect.electrum=Электричество, Молния
+    S:tc.aspect.magneto=Магнетизм, Притяжение
+    S:tc.aspect.nebrisum=Обман, Рейдерство, Обогащение
+    S:tc.aspect.radio=Радиация
+    S:tc.aspect.strontio=Глупость, Некомпетентность

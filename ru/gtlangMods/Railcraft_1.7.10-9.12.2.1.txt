@@ -78,7 +78,6 @@
     S:bc.trigger.gregapi.energy.vis_terra.capacity.full=Полный (Terra)
     S:bc.trigger.gregapi.energy.vis_terra.capacity.notfull=Не полный (Terra)
     S:bc.trigger.gregapi.energy.vis_terra.capacity.partial=Частично заполнен (Terra)
-
     S:tc.aspect.electrum=Электричество, Молния
     S:tc.aspect.magneto=Магнетизм, Притяжение
     S:tc.aspect.nebrisum=Обман, Рейдерство, Обогащение
