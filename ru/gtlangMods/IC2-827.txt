@@ -56,7 +56,6 @@
     S:gt.crop.whitegrapes=Белый виноград
     S:gt.crop.withereed=Угольный тростник
     S:gt.crop.yellowappletree=Желтая яблоня
-	
     S:ic2.fluidBiomass=Биомасса
     S:ic2.fluidConstructionFoam=С-Пена
     S:ic2.fluidCoolant=Хладагент

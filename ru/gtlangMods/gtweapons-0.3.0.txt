@@ -641,4 +641,3 @@
     S:oredict.prefix.gtweaponsMagazineHC=gtweaponsMagazineHC
     S:oredict.prefix.gtweaponsMagazineLC=gtweaponsMagazineLC
     S:oredict.prefix.gtweaponsMagazineMC=gtweaponsMagazineMC
-
