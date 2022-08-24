@@ -41,6 +41,7 @@
     S:gt.crop.raspberries=Малина
     S:gt.crop.redappletree=Красная яблоня
     S:gt.crop.redcurrants=Красная смородина
+    S:gt.crop.redgrapes=Красный виноград
     S:gt.crop.rice=Рис
     S:gt.crop.rye=Рожь
     S:gt.crop.shimmerleaf=Мерцающий лист
