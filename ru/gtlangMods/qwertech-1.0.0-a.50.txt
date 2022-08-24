@@ -12,8 +12,8 @@
     S:fluid.mildsalsa.name=Мягкая сальса
     S:fluid.salsa=Средняя сальса
     S:fluid.salsa.name=Средняя сальса
-    S:fluid.sugarwater=Сахарная вода
-    S:fluid.sugarwater.name=Сахарная вода
+    S:fluid.sugarwater=Сладкая вода
+    S:fluid.sugarwater.name=Сладкая вода
     S:fluid.tomatosauce=Томатный соус
     S:fluid.tomatosauce.name=Томатный соус
     S:gt.drink.hotsalsa=Веганский огонь
@@ -48,7 +48,7 @@
     S:itemGroup.link=Звенья цепи
     S:itemGroup.qwertech.machines.-1=Натуральный
     S:itemGroup.qwertech.machines.0=Верстаки
-    S:itemGroup.shuriken=Сюрикеный
+    S:itemGroup.shuriken=Сюрикены
     S:itemGroup.toolHeadMace=Основы булав
     S:itemGroup.toolHeadMattock=Основы киркомотыг
     S:itemGroup.toolHeadRawMace=Заготовки основ булав
@@ -2043,6 +2043,7 @@
     S:oredict.toolHeadHammerWhiteCY11.name=Основа молота (Белый CY-11)
     S:oredict.toolHeadHammerYellowCY11.name=Основа молота (Желтый CY-11)
     S:oredict.toolHeadHoeAny.name=Основа мотыги (Любой)
+	S:oredict.toolHeadHoeBlueCY11.name=Основа мотыги (Синий CY-11)
     S:oredict.toolHeadHoeChemicalY10.name=Основа мотыги (CY-10)
     S:oredict.toolHeadHoeChemicalY2.name=Основа мотыги (CY-2)
     S:oredict.toolHeadHoeChemicalY4.name=Основа мотыги (CY-4)
@@ -2928,6 +2929,7 @@
     S:oredict.toolHeadRawAxeDoublePinkCY11.name=Заготовка основы секиры (Розовый CY-11)
     S:oredict.toolHeadRawAxeDoublePurpleCY11.name=Заготовка основы секиры (Пурпурный CY-11)
     S:oredict.toolHeadRawAxeDoubleRedCY11.name=Заготовка основы секиры (Красный CY-11)
+	S:oredict.toolHeadRawAxeDoubleWhiteCY11.name=Заготовка основы секиры (Белый CY-11)
     S:oredict.toolHeadRawAxeDoubleYellowCY11.name=Заготовка основы секиры (Желтый CY-11)
     S:oredict.toolHeadRawAxeGreenCY11.name=Заготовка основы топора (Зеленый CY-11)
     S:oredict.toolHeadRawAxeOrangeCY11.name=Заготовка основы топора (Оранжевый CY-11)
